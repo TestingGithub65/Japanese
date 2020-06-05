@@ -2,7 +2,7 @@
 
 **HOW TO TRANSLATE THE TEXT DOCUMENTS**
 
-EXAMPLE:
+EXAMPLES:
 
 #ID Number (Don't delete)<br />
 ; Source text (Don't delete)<br />
