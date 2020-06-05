@@ -1,0 +1,172 @@
+; Localization script for `HibikiDay4`
+
+# 2eaad13
+; Ashley: Alright, time to go get ready for school! ( ^V^)9
+
+# c9d624a9
+; Father: Ashley is in a such hurry that {pronoun} forgets to say goodbye to me ( TvT) . . .
+
+# 3e97c4
+; Hibiki: Good morning!
+
+# cb5be5e
+; Hibiki: I am back to school again. Let's go and practice for the concert![skipInput]
+
+# e12afa9
+; @choice "Let's do that!" goto:.Lets
+
+# 69cd80d2
+; @choice "Nah, I have already practiced enough." goto:.Have
+
+# 441cb054
+; Hibiki: Great, let's go!
+
+# cb05b2a6
+; Hibiki: Oh, I see. . .
+
+# 28c99c15
+; Hibiki: Well, put up these posters later today. All the groups had these posters made by the media classes.
+
+# e5156eb5
+; Hibiki: Let's meet up and eat lunch together later.
+
+# a97b4f68
+; Ashley: Hibiki asked me to put up these posters around school.
+
+# 94fba99b
+; Ashley: I will do that before I eat lunch.
+
+# eff04140
+; Ashley: Oh, there is a pin-board over there I will put it up there!
+
+# 29fd3ea4
+; Ashley: There, now it's done.
+
+# cfb7c15d
+; Erick: Ah, they are holding a concert on Friday.
+
+# 6653b552
+; Erick: Oh, it's you {name}!
+
+# e0592df9
+; Erick: I see you choosed the music program.[skipInput]
+
+# 673a019e
+; @choice "Yes, Hibiki and I are getting along~" goto:.Along
+
+# 3ba0b942
+; @choice "Yeah. . ." goto:.OhNo
+
+# e6214809
+; Erick: That’s nice~
+
+# 714a99fc
+; Erick: Oh no, is that the time already!?
+
+# 1ec8b3ad
+; Erick: I need to get going. I will be sure to visit the concert~
+
+# 2506e548
+; Ashley: I think it's time to meet up with Hibiki and eat lunch.
+
+# fdfb5951
+; Ashley: We should meet at the rooftop.
+
+# 86a99cdd
+; Hibiki: Hi, thanks for putting up all posters!
+
+# 4bd4fcc
+; Hibiki: Time to eat! What did you bring for lunch today?
+
+# 7df771ba
+; Ashley: My father made a bento box for me, look!
+
+# 98d89126
+; Hibiki: Oh, your parents makes your lunch?
+
+# 45a676f7
+; Hibiki: Yeah, do you make your lunch by yourself?
+
+# fee0db27
+; Hibiki: Uhuh, I live on my own on the west side of the town. I moved here to begin high school.
+
+# 1524df0a
+; Ashley: Hmm. . . what should I ask her more about?[skipInput]
+
+# fa30f356
+; @choice "When did you start like to play music?" goto:.When
+
+# a3c401e3
+; @choice "What did you bring to eat for lunch?" goto:.Brought
+
+# d2979a92
+; @choice "What do you think about me?" goto:.Me
+
+# cb64181f
+; Hibiki: I began to like music when I was little. In middle school there was a music club I joined.
+
+# ba5ee7f9
+; Ashley: Really? How was that?
+
+# 887fb6d1
+; Hibiki: Well it was fun. . . he, he even thought Seok always a bit too noisy.
+
+# 58b1e40
+; Ashley: Seok? The guy in our class now?
+
+# f2fe6650
+; Hibiki: Yes. . . We were in same middle school. We have known each other since childhood.
+
+# ba6f414
+; Hibiki: The town we came from is small. However in middle school everything changed. . .
+
+# 867a12df
+; Hibiki: Whatever. . . He is a jerk now! Stay away from that scumbag.
+
+# b5c8b1f9
+; Ashley: I wonder what happened between them. . .
+
+# 67ec51c9
+; Hibiki: Ah, I brought a lunchbox that I made myself. It's just rice and meat basically.
+
+# b13fef66
+; Hibiki: I ain't that good at cooking.
+
+# 2e71f5c
+; Hibiki: Well . . . we’ve only known each other for a short time so far. . .
+
+# 27e23b55
+; Hibiki: But I hope we can spend more time together. . .
+
+# 27f7c6dc
+; Ashley: Well then should we head back?
+
+# 72782fd6
+; Hibiki: Yes, let's do that.
+
+# 16360b47
+; Ashley: The rock group practiced hard together during the afternoon too.
+
+# e57eff7
+; Ashley: I hope everything will go as planned tomorrow.
+
+# 80e5479e
+; Ashley: Well, I will go to bed early tonight. . . Tomorrow is the big day. (*ꑓ ︿ ꑓ*)
+
+# 3b17370e
+; Ashley: Nobody is here. . . ?
+
+# ccad61a
+; Ashley: Did Hibiki ditched me and eat lunch with the other in the group. . . ?
+
+# 3dbc9571
+; Ashley: Fine, then I will ditch the practice and go home after lunch.
+
+# b2c2be2d
+; Ashley: I have practiced enough already.
+
+# 67595df8
+; Ashley: Hmph. . . Hibiki is such a jerk. (╬ Ò ‸ Ó)
+
+# b1c23cce
+; Ashley: . . . And the other people in the class are boring. I will ask to change my program tomorrow!

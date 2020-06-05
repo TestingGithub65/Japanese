@@ -1,0 +1,331 @@
+; Localization script for `PixelDay4`
+
+# 252e5780
+; Ashley: Ah, is it already morning. . . Σ(￣。￣ノ)ノ
+
+# f830d2e1
+; Ashley: Yawn. . . I am going to school.
+
+# a467d1ce
+; Sister: Ya. . . see you.
+
+# 299e487c
+; Ashley: Pixel must already be at school, I guess.
+
+# 70b11ab
+; Teacher: . . . so now you can start to work on your group projects!
+
+# 46f303b6
+; Ashley: Ah! It looks like the class has already started!
+
+# 639c3e58
+; Pixel: Oh, Ashley you are here!
+
+# 422f17e1
+; Ashley: I overslept.
+
+# b5425623
+; Pixel: I was worried for a minute that you were sick or something. . .
+
+# ace46472
+; Pixel: Well now that you are here, let’s take a look at our game progress~
+
+# 80fe306b
+; Pixel:  I have published a demo on a website. I will show you. . .
+
+# 9c0e5883
+; Pixel: Here it is! It’s called Otter of My Life!
+
+# 596f332e
+; Ashley: . . . why have you used in real life otters?
+
+# 5889991e
+; Pixel: Oh, I put up a poster that asked if anyone wanted to appear in my game for free.
+
+# e50fdbc8
+; Pixel: These people signed up~
+
+# 49bfe387
+; Ashley: . . . it seems familiar somehow.
+
+# 917fc554
+; Ashley: Have you received any comments?
+
+# b5c8fe06
+; Pixel: . . .
+
+# c88eae02
+; Pixel: Well. . . both good and bad comments.
+
+# 97995128
+; Ashley: What? Hate comments?!
+
+# d0eb2468
+; Pixel: Yeah. . . but that’s just how it is. . .[skipInput]
+
+# 1a05a953
+; @choice "Focus on the positive" goto:.Positiv
+
+# 3a912635
+; @choice "Maybe it was a bad idea to make a game." goto:.Maybe
+
+# a7c6c767
+; Pixel: You are right. . . but negative hate comments always make you feel a bit down. . .
+
+# e3180aba
+; Pixel: . . . even if you expect negative comments.
+
+# 738ae9f9
+; Pixel: Sorry. . . I am sort of prepared to get hate comments on anything I put online. . .
+
+# dd249c9c
+; Pixel: . . . but I don’t know about you. . .
+
+# a14fb51f
+; Pixel: I still want to be able to show it to as many people as possible. . .
+
+# 8498c393
+; Pixel: Ah, right! There are a lot of bugs to fix. Let’s start working.
+
+# 439d049b
+; Teacher: Attention! It’s time for lunch!
+
+# d5ea2421
+; Pixel: Ashley, Let’s go and eat lunch~
+
+# b4d5d9ce
+; Pixel: I brought my own bento box today. No waste of time queuing to buy food~[skipInput]
+
+# b39b3b00
+; @choice "I don’t think we should make a game" goto:.Game
+
+# e85d5e42
+; @choice "What’s left to do?" goto:.Left
+
+# ce6972bd
+; Pixel: What. . . is it because of the hate comments?
+
+# 1bd9735d
+; Pixel: Well. . . I-I can’t force you, but I would be sad if you decided to quit.
+
+# fe3fd6ad
+; Pixel: But it’s your decision whether you want to or not.
+
+# caaa4533
+; Ashley: I will think about it.
+
+# a5f032f3
+; Pixel: Euhm . . . quite a lot.
+
+# aeecb673
+; Pixel: But it’s only a demo, not a full game haha.
+
+# c00476aa
+; Pixel: Did you receive a message?
+
+# d7eefda
+; Pixel: I am going to buy something a drink, I will be right back.
+
+# a49ae5d1
+; @print "Your game is soooo bad! LOL" author:XXX reset:false
+
+# 3b7f986a
+; @print "Puurfect Girlfriend is much better ^^" author:XXX reset:false
+
+# bd5bfa2
+; @print "The creators are such noobs!"[skipInput] author:XXX reset:false
+
+# a83e31cb
+; @choice "You are right" goto:.Right
+
+# 6225c4cc
+; @choice "Close the mobile" goto:.Close
+
+# cebcb6ae
+; @print "You are right." author:Ashley reset:false
+
+# ba940f07
+; @print "Hey?! Who are you?" author:XXX reset:false
+
+# 899e4440
+; Pixel: I am back with some drinks~ (*^◇^)_旦旦
+
+# 141a3804
+; Pixel: You look troubled. Is something wrong?[skipInput]
+
+# e6ffdb1a
+; @choice "One more guy said the game sucks" goto:.Sucks
+
+# 9c1c9d6f
+; @choice "Meh, it’s nothing" goto:.Nothing
+
+# 80ab364e
+; Pixel: . . . maybe it wasn’t a good idea after all.
+
+# a5d12fbb
+; Pixel: Well if you say so. . .
+
+# 4a390636
+; Pixel: I need to go to the WC. . . You can head back to the classroom.
+
+# 1aaf9f60
+; Ashley: Well, guess I will go back to the classroom then.
+
+# cbd960af
+; Teacher: Welcome back. Tomorrow is the big day!
+
+# 5a7c7e41
+; Teacher: We have this classroom to show your work.
+
+# bfe2bf84
+; Teacher: Tomorrow morning we will begin to prepare everything for the exhibition.
+
+# 9c8ec5f2
+; Students: AH! Is it already tomorrow?!
+
+# 493d9e52
+; Students: Group number two gather here!
+
+# b0fe590c
+; Pixel: Let’s finish the game~
+
+# 8bd4b705
+; Ashley: School is over. . . I wonder what I will get for dinner today.
+
+# 2a6bd601
+; DRRRRHHH!
+
+# 8df3b500
+; Ashley: WHAT WAS THAT?
+
+# dcaf2283
+; Ashley: Eh, someone is calling this late at night?![skipInput]
+
+# 32bebf4f
+; @choice "Answer" goto:.Answer
+
+# f5b83863
+; @choice "Close the mobile" goto:.End
+
+# 90b5fff4
+; Ashley: H-Hello. . .
+
+# f776e006
+; XXX: *Cough* *Cough*
+
+# 3f91daa7
+; XXX: Hello, my name is XXX and I am interested in  buying your game. . .
+
+# 91d8329c
+; XXX: I will pay  ten grand! 💰
+
+# c48f0291
+; XXX: How does that sound, hmm?[skipInput]
+
+# 61a082cd
+; @choice "That sounds good" goto:.BSENRTWO
+
+# f5b83863
+; @choice "Close the mobile" goto:.End
+
+# 443268de
+; XXX: Excellent! Send me the files.
+
+# e1804baf
+; Ashley: I don’t have the files but I can get them on a USB tomorrow at school.
+
+# 4aedc8e3
+; XXX: Which school? I will bring a check, then we are sure to get what we want without any problems.
+
+# 4c48bc91
+; Ashley: Hikori High School.
+
+# 82d82a5c
+; XXX: I see. . . Call me tomorrow when you get the game files.
+
+# 64251d5b
+; XXX: Oh, you must delete all other files of the game, got it?
+
+# 18e9661b
+; Ashley: Yes. I will call tomorrow.
+
+# a0d4e4
+; XXX:  Well, I’ll hear from you tomorrow then, hehe.
+
+# 180665ea
+; Ashley: The time is 2AM. . . must get some sleep.
+
+# 1af0fe11
+; Pixel: Hi!
+
+# 16213456
+; Ashley: Did you bring your computer?
+
+# 7579f3a8
+; Pixel: Of course~
+
+# b5c8fe06
+; Pixel: . . .
+
+# 1f81e990
+; Pixel: Oh right! I put in my locker. . .
+
+# 83116e1a
+; Ashley: I can bring it for you. I remember I also forgot something in my locker. . .
+
+# 48a99623
+; Pixel: Great, here are the keys to my locker~
+
+# 88be2bf7
+; Ashley: I will be right back.
+
+# 57af382
+; Ashley: I have taken the game file and deleted the original one in Pixel’s computer.
+
+# 636d0cd4
+; Ashley: I have also called XXX to pick it up here.
+
+# a75cabd1
+; Ashley: Now I just need to wait. . .
+
+# cfdf4adc
+; XXX: Hey, are you the creator of OOML?
+
+# 34ce8cdf
+; Ashley: Yes, I am.
+
+# 2a7c25dc
+; XXX: . . . And here is your check.
+
+# 1e9d6ea6
+; XXX: A pleasure to do business with you~
+
+# 290faf1e
+; XXX: Goodbye.
+
+# 658c39c8
+; Ashley: Hmm. . . what should I do with all the money?
+
+# e4f65f31
+; Ashley: Maybe I’ll move to a better place. This place is boring. . . hehe.
+
+# fd8dd953
+; Pixel: I-I have decided to quit making the game. . .
+
+# f82609a
+; Pixel: You are right. . . nobody would like it anyway. . .
+
+# 4ae44f4e
+; Pixel: I am sorry for dragging you into this project. . . It’s best if we work on our own from now on.
+
+# 1b11f22b
+; Ashley: After that we worked on our own projects. . .
+
+# 65745b4d
+; Ashley: Somehow it became awkward being with each other since then. . .
+
+# 82e3b1ea
+; Ashley: I guess we will not be good friends anymore like before. . .
+
+# 180665ea
+; Ashley: The time is 2AM. . . must get some sleep.

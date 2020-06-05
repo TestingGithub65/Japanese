@@ -1,0 +1,253 @@
+; Localization script for `GyeongDay4`
+
+# 7c03b40
+; Ashley: Argghh. . . I overslept!
+
+# ac28b7cb
+; Ashley: Urgh. . . I feel nauseous today. . . (✖╭╮✖)
+
+# edfb608d
+; Ashley: Better rest. . . and see how I feel during the afternoon.
+
+# 4e840c9
+; Ashley: Need to get some water. . .
+
+# c2ca6cb5
+; Ashley: Who could that be. . . ?
+
+# f2fe2a1
+; Ashley: Hello. . . ?
+
+# 447e9888
+; Gyeong: Hi Ashley!
+
+# 392645eb
+; Gyeong: You aren’t here. . . Are you alright?[skipInput]
+
+# cf917743
+; @choice "Yes. . . don’t bother. . ." goto:.Bother
+
+# 4005369f
+; @choice "I am sick, sorry." goto:.Sorry
+
+# c146c52a
+; Gyeong: Oh, sorry if I-I uh, interrupted you. . .
+
+# f4deba2d
+; Gyeong: You sound sick. . . got a flu or?
+
+# 20bba9bb
+; Gyeong: No need to apologize. . . Catch a flu or something?
+
+# 7cc20360
+; Ashley: I am feeling nauseous. . . but I might come after lunch.
+
+# e786ef62
+; Gyeong: Ah, be sure to rest!
+
+# 924e6633
+; Gyeong: I need to hang up, I will be in touch.
+
+# dbaf931e
+; Gyeong: Get well, bye~
+
+# 18361fb
+; Ashley: Sigh. . . I am going to bed again.
+
+# d958dc6e
+; Ashley: I-I am starting to feel better. . .
+
+# a43fa5fe
+; Ashley: Could it be Gyeong again?
+
+# fa6edf48
+; Gyeong: Hi! How are you doing? (ToT)[skipInput]
+
+# 80fc03c3
+; @choice "I am starting to feel better" goto:.Better
+
+# 5f16a32f
+; @choice "Why do you even care?" goto:.Why
+
+# a6870e22
+; Ashley: I am starting to feel better
+
+# 3f3fec5c
+; Gyeong: Oh! That's a relief ^^
+
+# c4d79104
+; Ashley: Why do you even care?
+
+# 8472bbcd
+; Gyeong: Because you are my friend. . .(◞‸◟；)
+
+# 5e6e0381
+; Gyeong: By the way we quit early today.
+
+# c813a530
+; Gyeong: So I been thinking to visit u ^^
+
+# 78381ae1
+; Gyeong: To show you the steps we practiced today.[skipInput]
+
+# 72c7871f
+; @choice "Thank you ^^" goto:.Thank
+
+# 5a49d8b6
+; @choice "Fine, but I might become sick again" goto:.Fine
+
+# fffc9e28
+; Ashley: Thank You ^^
+
+# 5cd6db75
+; Gyeong: No problem~
+
+# a02bc913
+; Ashley: Fine, but I might become sick again
+
+# 2c03bf8
+; Gyeong: I hope you ain't sick tomorrow. . :(
+
+# 37e0a9b8
+; Gyeong: Where do ya live?
+
+# db4b7c1
+; Ashley: Otterstreet 84
+
+# 6ae4f22d
+; Gyeong: Thanks! See ya soon!
+
+# b8a0a5d7
+; Ashley: I will get some lunch before Gyeong arrives.
+
+# a4a84adc
+; Gyeong: Hello! Anybody home? It’s me, Gyeong!
+
+# 7f620ef2
+; Gyeong: Hi, Ashley.
+
+# eccc97db
+; Ashley: Hi, Gyeong!
+
+# 3d4b1736
+; Gyeong: I am here to show you the last steps to the performance.
+
+# b42f0f35
+; Gyeong: Ah, it looks like the living room needs some cleaning first!
+
+# 2846906c
+; Gyeong: Time for cleaning!
+
+# 870c3528
+; Ashley: . . .
+
+# 29e26fed
+; Gyeong: Now the dust has been wiped away~
+
+# 3a88de6b
+; Ashley: Yes, it actually has~
+
+# 91b5e9c5
+; Gyeong: Now I will show you the last part of the performance for the show tomorrow~
+
+# d924cb1c
+; Ashley: Gyeong is actually very good at dancing.
+
+# f652c978
+; Ashley: They moves without making any mistakes even though there are so many steps to learn.
+
+# 5cfe8bd3
+; Ashley: Will I be able to become as good at dancing as they are . . ?
+
+# 331cb0b5
+; Ashley: Ah! I hope they doesn’t knock something over. . .
+
+# f8a99a96
+; Gyeong: The last part is a bit difficult. . .
+
+# 200c8c3a
+; Gyeong: However, I believe you can do it of course~
+
+# b0dbfc83
+; Ashley: You really are a very good dancer~
+
+# 2ca7d975
+; Gyeong: Thank you~
+
+# c814d0a7
+; Gyeong: Oh, Maybe I should go now. Your family will probably be back soon.
+
+# def8037d
+; Ashley: They are visiting a relative for the rest of this week.
+
+# 97bc4bfd
+; Gyeong: Then if you let me stay I will make a stew dinner for both of us, sound good?
+
+# f31cbfc
+; Ashley: Well, It’s been a long time since I ate stew. . .
+
+# 122ba210
+; Gyeong: I will go and check if you have all the ingredients that are needed~
+
+# 8a82dad1
+; Ashley: I have a feeling Gyeong would become the perfect partner, ha, ha. . .
+
+# 9f35b2c
+; Gyeong: I have bought some food that is necessary. Take a seat while I make the stew~
+
+# c28ff884
+; Gyeong: Now it's done!
+
+# 6d008ff9
+; Gyeong: How does it taste?[skipInput]
+
+# 2e3debe4
+; @choice "Delicious!" goto:.Delicious
+
+# 7bf62596
+; @choice "Could have been better. . ." goto:.Notchef
+
+# 30af990d
+; Gyeong: I am glad you like it~
+
+# 7e47fbcb
+; Gyeong: Well. . . I could always be better. I ain't a chef ya know, haha.
+
+# b3901799
+; Gyeong: Let’s finish eating this up before it gets cold.
+
+# 48d6ce0f
+; Gyeong: I will clean up the dishes then go home~
+
+# fb225d5a
+; Ashley: Yawn~ Yeah, sure.
+
+# ac0bcb3
+; Gyeong: AH! Look at the clock! How long have I been here?
+
+# 514a5559
+; Gyeong: And Ashley . . . has fallen asleep on the couch. . .
+
+# e170562f
+; Gyeong: Wait. . . I can’t go home. . . Who will lock the door?
+
+# ef5ff3d7
+; Gyeong: I don't want to wake Ashley. . .
+
+# bf0db936
+; Gyeong: Should I try to find the keys? That might take forever though. . . (TvT)
+
+# 87a7358b
+; Ashley: I am feeling better but. . . I think I will stay home for the rest of the day.
+
+# c5856350
+; Ashley: It’s so stressful and bothersome to be there. . .
+
+# 29eee056
+; Ashley: I have been thinking. . . I am going to change my program. . .
+
+# 5ee2c4a7
+; Ashley: The teacher in the theater program is weird, and the classmates are boring as well. . .
+
+# 2aa253ab
+; Ashley: I will talk to the student counselor on Monday to help me change my program.

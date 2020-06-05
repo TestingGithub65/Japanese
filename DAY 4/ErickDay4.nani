@@ -1,0 +1,298 @@
+; Localization script for `ErickDay4`
+
+# 7c03b40
+; Ashley: Argghh. . . I overslept!
+
+# fdad3005
+; Ashley: Must hurry to school!┗(-_-　)┓三
+
+# e8ca28d0
+; Erick: Oh, good morning Ashley!
+
+# 39f4d8ea
+; Ashley: Erick. . . did you write something on the blackboard yesterday?
+
+# dc22b5e4
+; Erick: No, why do you ask?
+
+# 5e8f1a8f
+; Ashley: Then it must have been someone that was trying to hurt him . . .
+
+# 8f9a2429
+; Ashley: I hope no more bad things happen. . .
+
+# 1d36ff26
+; Erick: D-did I say something wrong. . . ?
+
+# 41f3ad18
+; Ashley: Ah n-no, let's go to the lesson.
+
+# 30160a47
+; Teacher: Good morning everyone!
+
+# 54f3e09f
+; Teacher: Today we going to do some clay figures. Take a piece of clay and start modeling an animal~
+
+# bf787900
+; Erick: Hey Ashley, how do you like this one? [skipInput]
+
+# 90e2a18e
+; @choice "Tss. . . nothing to be proud of" goto:.Tss
+
+# 1ef82b75
+; @choice "Looks nice!" goto:.Nice
+
+# edc42675
+; Erick: Right. . .
+
+# 6a9aeb74
+; Erick: I will try to become better. . .
+
+# dac84a74
+; Erick: Thank you!
+
+# 57bd2950
+; Gaelle: Move aside! You are in the way!
+
+# f299bef0
+; Erick:  Ah sorry!
+
+# 861e7347
+; Gaelle: Oh, Hi {name}, what’s up? [skipInput]
+
+# cc352371
+; @choice "Doesn't help that others are showing off." goto:.Off
+
+# f2724b5a
+; @choice "I’m doing fine" goto:.Fine
+
+# 40a64096
+; Gaelle: Of course not. I will help you~
+
+# 43e0806a
+; Gaelle: Well then, I am not going to interrupt your work. . .
+
+# 34626678
+; Ashley: Finally, a break. . .
+
+# 33e1aa98
+; Ashley: . . . and Erick disappeared again (・ヘ・)
+
+# dea81107
+; Pixel: Oh, hello there~
+
+# 2a83e163
+; Ashley: What?! Σ(゜ロ゜;)
+
+# 7f12344a
+; Ashley: Do you also study at this school?!
+
+# f43d1ac
+; Pixel: Yes, I am in the second year of the media program!
+
+# 8a269f22
+; Pixel: Ah, you are in the first year  of the art program! Same class as Erick, right?
+
+# d8574c55
+; Ashley: You know Erick?! (〇□〇)
+
+# 84835ecc
+; Pixel: Yes! I met him last year at the anime & game convention called “OtterGeek” in town.
+
+# 18d8325c
+; Pixel: Apparently, he and his family were on a vacation here. We met and became pals ever since then.
+
+# a4250307
+; Ashley: Really?! Well. .  . I see. . .
+
+# a664b1b7
+; Pixel: Do you want to join our anime & game chat group called “OtakuOtters” online? Erick has also joined.[skipInput]
+
+# f72e4d06
+; @choice "Count me in!" goto:.Count
+
+# 1955a36b
+; @choice "No thanks" goto:.NoThanks
+
+# cd4cc151
+; Pixel: Alright! We’ll hear from you soon then~
+
+# ddd02ecd
+; Pixel: Oh, what a shame. . .
+
+# 2a497a6
+; Ashley: Have you seen Erick?
+
+# ab4a655d
+; Pixel: I think I saw him on his way to the library. . .
+
+# a54d4180
+; Ashley: Thank you. I will go there then~
+
+# d1b7b3c0
+; Erick: Ah, {name} you’re here too?
+
+# 964482be
+; Ashley: Why did you leave the class so quickly?
+
+# 3d15b0e9
+; Erick: Well. . . I . . . was going to work on my comic and then eat lunch on my own.
+
+# 3fff323d
+; Erick: Y-you and Gaelle. . . I thought you two were going to eat lunch together. . .
+
+# f9a3f3d
+; Ashley: Comic?
+
+# ae566e3d
+; Erick: Yes! I am making my own comic!
+
+# 5078b1b2
+; Erick: If you promise not to laugh I will tell you about it.
+
+# ca7c9989
+; Ashley: Sure, so what's the story about?
+
+# fe2e1d53
+; Erick: Well . . . eh. . . i-it’s a BL story with supernatural events. It’s n-not NSFW stuff or anything like that. . .
+
+# 5623a477
+; Ashley: A good story with romance elements doesn't necessarily need NSFW content.
+
+# 18efc736
+; Erick: Exactly and by they way there are also many kinds of love. . .
+
+# d7778f8f
+; Erick: Like love for the one you cherish such as family or friends.
+
+# 115d7dad
+; Erick: The feelings to care about others from the bottom of your heart. . .
+
+# f3546071
+; Erick: Regardless if one are ace, aro or something else.
+
+# de15f0d0
+; Erick: All relationships doesn't need to be all the same after all. . .'
+
+# 60f26550
+; Ashley: Erick are. . .
+
+# 89b47d6e
+; Erick: Ah, d-did I talk too much. . .? (*´-`*)
+
+# 230ebbe9
+; Ashley: W-we should probably go and eat our lunch before the lesson starts.
+
+# feaca14a
+; SPLAAASHH!!!
+
+# c968d3df
+; Ashley: What the—
+
+# cc290428
+; Ashley: Erick got a bucket with water dropped onto him. . .
+
+# 45156cea
+; Gaelle: HA, HA. . . look at him. LOL
+
+# 24d40bdc
+; Gaelle: OMG he fell so hard for that prank!
+
+# f7aece60
+; Ashley: Erick wait!
+
+# 4d2dadc
+; Ashley: He ran away. . .
+
+# 870c3528
+; Ashley: . . .
+
+# 32f8d9d5
+; Ashley: He didn't show up for the afternoon lesson. . .
+
+# 3b494438
+; Ashley: I will try to contact him. . . but how. . .?
+
+# 1c3870aa
+; Ashley: Oh right, the chat group! I will look that up later. . .
+
+# 9bb977ed
+; Ashley: I can't sleep. . .
+
+# 415e640b
+; Ashley: Maybe I should check out the group chat. . . Just to see if someone is online. . .
+
+# 8649d7cc
+; @print "You two are still awake at this hour? Σ(゜ロ゜ ;)" author:Ashley reset:false
+
+# 449b5002
+; @print "Ashley, fun that you joined us!^^" author:Pixel reset:false
+
+# 8e1ee16f
+; @choice "Ya should kick their ass Erick! (ಠ皿ಠ )" goto:.Ass
+
+# 83f693fb
+; @choice "Are you doing better now Erick? (;´Д`)" goto:.Okay
+
+# a0af1a51
+; @print "Ya should kick their ass Erick! (ꐦಠ皿ಠ )" author:Ashley reset:false
+
+# 326e228c
+; @print "Are you doing better now Erick? (;´Д`)" author:Ashley reset:false
+
+# f49d853b
+; @print ". . ." author:Erick reset:false
+
+# bd6150d3
+; @print "Did something happen? (ﾟﾍﾟ)" author:Pixel reset:false
+
+# 7b886927
+; @print "Erick. . ." author:Ashley reset:false
+
+# f738edf6
+; @print "I need to go. . ." author:Erick reset:false
+
+# 8648f418
+; @print "Oh! Look at the clock! Σ(゜ロ゜;)" author:Pixel reset:false
+
+# d2ef70b6
+; @print "I need to go to bed, see ya!" author:Pixel reset:false
+
+# c2d58d2b
+; @print Bye. author:Erick reset:false
+
+# 2262ceef
+; Ashley: Maybe I’ll get to talk more with Erick tomorrow. . .
+
+# f770721c
+; Ashley: Yawn. . .
+
+# d69b8e56
+; Ashley: I should try to get some sleep now. . .  (﹡ꑓ ︿ ꑓ*)
+
+# 619b23d4
+; Ashley: Ah, there he is.
+
+# 4f9be698
+; Erick: Leave me alone!
+
+# b37d6472
+; Erick: Y-you set that up with the others, didn't you?!
+
+# c8832b50
+; Erick: I'm never going to be friends with you!
+
+# 2bbdedf5
+; Ashley: He left. . .
+
+# 3cbe413f
+; Ashley: Maybe he is right. . . Why did I even try to be friends with him at all. . .?
+
+# aa8f8653
+; Ashley: And why did I begin to study in this toxic class. . ?
+
+# e4b7baa1
+; Ashley: . . . the best thing to do would be to start over at another school.
+
+# a4d55213
+; Ashley: Yes, I will do that. I am tired of this place. . .
