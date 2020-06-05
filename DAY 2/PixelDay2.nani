@@ -1,0 +1,196 @@
+; Localization script for `PixelDay2`
+
+# 543bf5a7
+; Ashley: I am off to school!
+
+# 3c8ecd2e
+; Sister: Sure, see ya later.
+
+# 51891355
+; Pixel: Ah, it’s you again!
+
+# e51deec6
+; Ashley: Yes, my name is Ashley. I use "{pronoun}" about myself.
+
+# dfd3bfbb
+; Ashley: We met earlier, right?
+
+# cea29e9a
+; Pixel: Yes, we did~
+
+# 1b775e7
+; Pixel: I am on my way to school.
+
+# dcfcf714
+; Ashley: Same here. I am studying at Hikori High School.
+
+# cd92dca4
+; Pixel: WHAT?! I am also studying at Hikori High School!
+
+# 3e487a8
+; Ashley: Really?! Well, what a coincidence. Which program are you in?
+
+# 8c4fcd93
+; Pixel: I am a second year in the media program. What about you?
+
+# df6af0ae
+; Ashley: I am beginning the first year of the media program.
+
+# 6168cfe7
+; Pixel: Aye, then we are going to see more of each other.
+
+# cde5883c
+; Pixel: We will have a bunch of projects together.
+
+# ec0021b6
+; Pixel: Oh, look at the time. Let’s hurry to school. I can show you which classroom we should be in.
+
+# 3b7adf24
+; Pixel: Today we apparently have a project to work on together.
+
+# 6d4eda33
+; Teacher:  Good morning everyone~
+
+# 1a43f63f
+; Teacher: The art, theater, dance and music first year students are going to hold small performances on Friday.
+
+# 78e6b80b
+; Teacher: So, this means they need information posters!
+
+# 389b5b65
+; Teacher: Don’t panic, you will work together with the second and third year media program students.
+
+# 566fab29
+; Teacher: So, let’s begin dividing the classes into four groups. Each group will work on one poster.
+
+# 25b1705b
+; Teacher: The first group is Pixel, Ashley, . . .
+
+# 7c84682a
+; Pixel: Hey, it looks like we are in the same group~
+
+# 24fbea64
+; Teacher: Group number one is in charge of the music program’s poster.
+
+# f74f6ced
+; Pixel:  Well then, let’s all gather together and work. We can use my computer to do the layout~
+
+# 1abbd52
+; Teacher: Hey, attention! It’s lunch time!
+
+# 679d1a4b
+; Teacher: Take a break from your computers and get some fresh air and food~
+
+# 7ec7a774
+; {name}: Hmmm. . . where should I eat?
+
+# f8380914
+; Pixel: Ashley, do you wanna eat lunch in the cafeteria?
+
+# b4df1da0
+; Ashley: Well, why not?
+
+# 2faae8b1
+; Pixel: Great, let’s go!
+
+# b7f11202
+; Pixel:  I am going to buy something. What about you?
+
+# 345a574
+; Ashley: *Chew chew* Hmmm?（￣ｗ￣）Ψ♨
+
+# b35de660
+; Pixel: Oh, what a snazzy bento! (^v^)
+
+# 7c581246
+; Ashley: Thanks~
+
+# 4e3ce558
+; Pixel: OH NO, look at how many people are going to buy food today!
+
+# 34f7ba66
+; Pixel: I hope I get enough time to eat my food. . . I should have brought my own lunch. (T-T)
+
+# 9836c2fa
+; Ashley: Pixel is often having bad luck, aye. . .?
+
+# c561d26a
+; Teacher: Welcome back!
+
+# 191194f6
+; Teacher: Apart from the poster project, you are also going to have your own projects.
+
+# 487857b6
+; Students: WHAAAT?! We are already busy!
+
+# 6cd814b8
+; Teacher: There, there.
+
+# ef181374
+; Teacher: It’s in groups and you get to choose who you want to work with and what you are going to do.
+
+# 205e81cf
+; Teacher: It can be digital art, websites, graphic design, games, photos, movies, etc.
+
+# 6b3dbb94
+; Teacher: Think outside the box and be creative~
+
+# 3565016
+; Students: That sounds better.
+
+# 6b7c834a
+; Students: Yeah, I am going to take a lot of nature photos!
+
+# 5f60b81c
+; Students: Anyone who wants to make a movie can team up with me!
+
+# 354eda1
+; *Chatter chatter*. . .
+
+# 5bfaa7d1
+; Pixel: Ashley, do you want to team up with me and make a game?[skipInput]
+
+# 6b388caa
+; @choice "Yeah, awesome!" goto:.Yeah
+
+# 6650c8d6
+; @choice "Nah, I don’t think so." goto:.Nah
+
+# 9fb57975
+; Pixel: Sweet! How fun!
+
+# 3f84a17f
+; Pixel: Oh. . . I see. . .
+
+# 5a0b35d2
+; Ashley: Well, let’s see if any other group are. . .
+
+# b0c7ee07
+; Ashley: Nuts, every group seems to be settled already!
+
+# 4ca1464b
+; Ashley: Euhm . . . Pixel, can I still join you?
+
+# a0376f9
+; Pixel: I have been thinking for a while to make a LGBT+ comedy, slice of life, and romance game.
+
+# bfa005ee
+; Pixel: Let’s brainstorm what kind of characters there would be in the game~
+
+# 4bd8c6bd
+; Teacher: That’s it for today~
+
+# d74dca6e
+; Teacher: Class dismissed~
+
+# 681b3ee2
+; Pixel: I am living in a house a bit away from here~
+
+# 69a967cb
+; Pixel: See you tomorrow!
+
+# 67db0ccb
+; Ashley: Yeah, see you!
+
+# b9ade636
+; Ashley: Time to go home and chill.

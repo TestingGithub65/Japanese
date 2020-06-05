@@ -1,0 +1,160 @@
+; Localization script for `HibikiDay2`
+
+# ec7236bb
+; Ashley: Dad, I am going to school now!
+
+# c56c3cee
+; Father: Yes, have a nice day~
+
+# 4a180f0d
+; Hibiki: Ah, good morning Ashley.
+
+# e40f8866
+; Ashley: I have decided to join the music program~ (((o(^v^)o)))
+
+# 142c3eb8
+; Hibiki: Oh, I hope you made the right decision.
+
+# 91f9596d
+; Hibiki: Well then, let’s go to the classroom.
+
+# 30160a47
+; Teacher: Good morning everyone!
+
+# f7248908
+; Teacher: During this first lesson, we are going to get to know each other!
+
+# 629f5ee
+; Teacher: That by doing a music quiz in groups of two.
+
+# 320cd590
+; Hibiki: Should we be in a group?[skipInput]
+
+# 157f16ed
+; @choice "Alright!" goto:.Alright
+
+# e258891c
+; @choice "Sigh. . . I suppose so." goto:.Begin
+
+# 3e7d87fd
+; Hibiki: Let’s win this challenge.
+
+# c9aa424
+; Teacher: Okay, let's begin the quiz!
+
+# a4472746
+; Teacher: Which genre is the following music?[skipInput]
+
+# 1aeac422
+; @choice "Rock" goto:.Yes
+
+# 78411e1a
+; @choice "Pop" goto:.No
+
+# 64a88eda
+; @choice "Jazz" goto:.No
+
+# 96430ae8
+; @choice "Electro" goto:.No
+
+# d64bd08a
+; Teacher: That's right! Well done you two.
+
+# b53143fa
+; Teacher: That was wrong answer.
+
+# dcfb25a1
+; Teacher: Now it´s time for quiz number 2. Get ready!
+
+# 97afe7da
+; Teacher: The question is: Which music instrument is the most heard in this clip?[skipInput]
+
+# 3986668f
+; @choice "Drums" goto:.Nah
+
+# 57191b73
+; @choice "Piano" goto:.Nah
+
+# 14b7e336
+; @choice "Guitar" goto:.Nah
+
+# 843e77af
+; @choice "Flute" goto:.Yep
+
+# 96b60b14
+; Teacher: That's right! Great job you two.
+
+# b53143fa
+; Teacher: That was wrong answer.
+
+# c59f90bc
+; Teacher: Okay the last quiz!
+
+# ccc3c743
+; Teacher: Which feeling do you think the creators want to convey with this music?[skipInput]
+
+# afef299a
+; @choice "Happiness" goto:.Wrong
+
+# a73d870f
+; @choice "Sadness" goto:.Wrong
+
+# 98629d99
+; @choice "Nostalgia" goto:.Right
+
+# 8ad84078
+; @choice "Anger"" goto:.Wrong
+
+# 96b60b14
+; Teacher: That's right! Great job you two.
+
+# b53143fa
+; Teacher: That was wrong answer.
+
+# f998ea58
+; Teacher: So, let's see what your score is. . .
+
+# cebbaeed
+; Techer: You get. . . 0 points. You both need to practice some more.
+
+# 51fc1141
+; Teacher: You get. . . 1 points.
+
+# 9259ae82
+; Teacher: You get. . . 2 points. Close but not enough.
+
+# 30fc9692
+; Teacher: You get 3 points!
+
+# aa428599
+; Teacher: All questions right!
+
+# cea80e62
+; Teacher: The lesson is over. This afternoon you will have instrumental practice. Good luck!
+
+# 61f74967
+; Teacher: Hi everyone! It’s time to practice playing some instruments~
+
+# 74955560
+; Teacher: Is there anyone who has a suggestion as to what genre of music we should play?[skipInput]
+
+# ba9b66a4
+; @choice "Pop" goto:.Awesome
+
+# c9acf8f
+; @choice "Rock" goto:.Oh
+
+# 3ffe30ab
+; Hibiki: Oh, you also like rock. . .
+
+# 9421384c
+; Seok: That was an awesome suggestion~
+
+# 15e9edc1
+; Teacher: Then let us begin to playing 🎶
+
+# f7dc385b
+; Ashley: Phew~ What a day. . .
+
+# 9358b49
+; Ashley: Time to sleep. . . (－－)..zzZ

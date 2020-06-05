@@ -1,0 +1,274 @@
+; Localization script for `GyeongDay2`
+
+# f830d2e1
+; Ashley: Yawn. . . I am going to school.
+
+# a99eefd4
+; . . .
+
+# f43f513b
+; Ashley: Oh, it looks like everyone has already left the house.
+
+# 74b5fab5
+; Teacher: Good morning. My name is Mrs Feng.
+
+# ca69f28f
+; MrsFeng: This week we will practice for a show on Friday.
+
+# a9d485b2
+; MrsFeng: Unfortunately, they are rebuilding the dance rooms. . .
+
+# 3824a820
+; MrsFeng: So instead, we will practice in the park.
+
+# 4cd081cd
+; Students: WHHAAAT?! In front of people, no way!
+
+# c3a93a68
+; MrsFeng: Tss, calm down. We will meet up at the school gate in 10 minutes.
+
+# 6f9fb6e3
+; MrsFeng: Understood?
+
+# d724be50
+; Students: Yes. . .
+
+# c23bc80c
+; MrsFeng: Now everyone, let's go.
+
+# a99eefd4
+; . . .
+
+# a99eefd4
+; . . .
+
+# ff33baf8
+; MrsFeng: It's here that we are going to practice.
+
+# f89449dc
+; MrsFeng: Oh. . . the other classes are already here.
+
+# 1f22e192
+; Gyeong: Oh, it looks like the first-year dance students are here~
+
+# 6645b71c
+; Gyeong: Aye, ain't you Ashley?[skipInput]
+
+# ac67ed51
+; @choice "Yes. . . but who are you? (-_-)" goto:.Who
+
+# cf51b8b
+; @choice "Yeah, you are Gyeong, right?" goto:.Yeah
+
+# a224b3dd
+; Gyeong: We met yesterday, don't you remember. . . ?
+
+# 64ee2886
+; Gyeong: Yeah, we met yesterday~
+
+# 7d917e29
+; MrsFeng: EUHM! SILENCE!
+
+# a99eefd4
+; . . .
+
+# 1d35811b
+; MrsFeng: That's better. So, there are thirty students altogether.
+
+# f71f7e3
+; MrsFeng: The number of applicants for the dance program has been low these past few years.
+
+# c0f36705
+; MrsFeng: Let's split the group so that it’s fifty girls and fifty boys in each group!
+
+# 460cfe77
+; Students: Hey, what about the non-binary, bigender, demi-gender people, etc. . ?
+
+# b11a0c37
+; MrsFeng: Tss, I don't know about those slang words.
+
+# 3c5c7f3a
+; MrsFeng: Youngsters these days have such strange phrases. . .
+
+# 7019f903
+; Students: . . .
+
+# 5ad2e2a8
+; MrsFeng: Enough chit chatting! It's time for practice.
+
+# a010052d
+; MrsFeng: We will divide the class into three groups.
+
+# d780bab0
+; MrsFeng: Each group will have nine girls and one boy.
+
+# 11a7def1
+; MrsFeng: One group will do ballet, one group quickstep, and the last foxtrot.
+
+# bcc2b7bd
+; Students: Can’t we choose in our groups what we want to do?
+
+# 1889718a
+; MrsFeng: That will be no good. I will decide what you are going to do.
+
+# 26779bb
+; MrsFeng: Now, group "A" is Ashley, Gyeong. . .
+
+# f6bca024
+; Gyeong: Looks like we are in the same group Ashley.
+
+# 20cad990
+; Group"A": Yeah. . .
+
+# 184d59aa
+; MrsFeng: Good. You are going to perform ballet.
+
+# dd2b3eaa
+; Group"A": . . .
+
+# a7694e2b
+; MrsFeng: Don’t just stand there! Go and practice!
+
+# 8d3ffd3f
+; Gyeong: Well then, let's search on SpotiOtter for music to fit. .
+
+# 551d5b2
+; Ashley: Something really strange turned up when I opened SpotiOtter. . .
+
+# 184fc4e8
+; Ashley: . . . and what’s happened to the language?
+
+# 2a7c2
+; Gyeong: Oh, that’s DJ OTTZTA! They make very cool hip-hop music~
+
+# b74f2657
+; Gyeong: Hey, can’t we do hip-hop instead of ballet? *whisper*[skipInput]
+
+# 10c231f7
+; @choice "I don't think that’s a good idea. . ." goto:.Dont
+
+# 2cb09c0e
+; @choice "Yeah, let's do that!" goto:.LetsDo
+
+# aa2c0249
+; Group"A": Don’t be a chicken. Ballet is fun but we have practiced it so much lately. *whisper*
+
+# ac97e1c7
+; Gyeong: Yes, let’s do it. Ballet is fun but we have practiced it so much lately. *whisper*
+
+# a9fef37b
+; Gyeong: Then let’s practice when the teachers leave. *whisper*
+
+# b85a12f9
+; MrsFeng: EUHM! Attention!
+
+# 303d0e27
+; MrsFeng: I am going to leave you to practice now. I expect you all to do your best.
+
+# d2ea2dea
+; Students: Yes, we will. . .
+
+# 62e62d8c
+; Group"A": She is gone now~
+
+# 70c979bd
+; Group"A": Let’s begin to practice our performance~
+
+# 4c13ca70
+; Gyeong: AH! Time for lunch~
+
+# f9183757
+; Students: Nuts, I didn't bring a lunchbox. . .
+
+# 6b266c64
+; Students: Same here. . .
+
+# 5d85a3bc
+; Students: Where is the closest cafe?
+
+# 4c6463cd
+; Ashley: I brought a bento with me. . .
+
+# 1123da4b
+; Gyeong: Great! I also did that, so let’s eat lunch together over there~
+
+# 403a7320
+; Gyeong: Oh, there is a vending machine. I will get something to drink~
+
+# d7ab1f3a
+; Gyeong: I got one for you too (　・∀)つ且~~⊂(´∀｀ )
+
+# 28553be2
+; Gyeong: Aye, look at that!
+
+# 77101dcb
+; Gyeong: Did you make that?
+
+# c08c9c1a
+; Ashley: Yes, I did!
+
+# 71bba0b4
+; Gyeong: That’s really cool! I like cooking by the way~
+
+# df9bc18e
+; Ashley: Hmmm. . . Eh, what question should I ask about?[skipInput]
+
+# 709ae4a7
+; @choice "How come you began to study dance?" goto:.Dance
+
+# 6910fd2d
+; @choice "I see you and Takara are friends?" goto:.Friends
+
+# c5defd14
+; @choice "You are or were single. . .?" goto:.Single
+
+# b767da59
+; Gyeong: Well as far I can remember, I have always liked to dance.
+
+# 9a98d686
+; Gyeong: Both my parents are dancers, so maybe that’s also a part of it~
+
+# 2d745c8e
+; Gyeong: I hope I can be able to live on dance as job for as long as possible.
+
+# fdebac93
+; Gyeong: It’s a tough job to have and difficult to get.
+
+# fdf56478
+; Gyeong: Yes, we are. Takara is actually my childhood friend.
+
+# 1e7325be
+; Gyeong: When we were little we always liked to play by making our own small shows!
+
+# cf23da9c
+; Gyeong: We promised each other that one day both of us would be on the real big stages in front of huge audiences, haha!
+
+# 58eff06c
+; Gyeong: Oh, that. . .
+
+# c5c146f9
+; Gyeong: I was together with someone for a while but. . .
+
+# f330c53a
+; Gyeong: . . . they ended up with someone else.
+
+# a5959dc9
+; Gyeong: I really liked them . . . but I guess I wasn't g-. . . ( T-T)
+
+# d1578854
+; Gyeong: Ah.L-let's talk about something e-else.
+
+# e7a13b6a
+; Gyeong: Should we head back?
+
+# 6adb6130
+; Ashley: Yeah, let’s go.
+
+# 99e301ef
+; Ashley: Phew~
+
+# d857a438
+; Ashley: All groups seem to be practicing hard today.
+
+# c619b4d6
+; Ashley: Well, time to go to bed.

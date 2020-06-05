@@ -1,0 +1,211 @@
+; Localization script for `ErickDay2`
+
+# b7e473c9
+; Ashley: Time to go to school ( ^v^)9
+
+# 50df69c7
+; Mother: Have a nice day!
+
+# d291b487
+; Erick: Oh, Ashley! So you chose the art program?
+
+# 30160a47
+; Teacher: Good morning everyone!
+
+# fb77d6fc
+; Teacher: Let's start by studying old paintings. . .
+
+# 21b4eb67
+; Teacher: What is the first name of the artist who painted this picture?[skipInput]
+
+# e586b91d
+; @choice "Lotternardo" goto:.Right
+
+# 5dbb6502
+; @choice "Leo Da Otter" goto:.Wrong
+
+# fcfcb7e5
+; @choice "Michelottero" goto:.Wrong
+
+# 9184d3d6
+; @choice "Otter Dali" goto:.Wrong
+
+# 27c1e326
+; Teacher: That’s incorrect. The right answer is “Lotternardo”!
+
+# 3e8f7813
+; Teacher: That's correct, well done!
+
+# 3aef8e7c
+; Teacher: In which epoch or art-style was this painting made?[skipInput]
+
+# eb40e77a
+; @choice "Impressionism" goto:.WrongAnswer
+
+# e2ffc709
+; @choice "Surrealism" goto:.WrongAnswer
+
+# 2754ea8f
+; @choice "Futurism" goto:.WrongAnswer
+
+# eeb6618a
+; @choice "Renaissance" goto:.RightAnswer
+
+# cfdf2548
+; Teacher: That was wrong answer. You need to study a bit more.
+
+# 96eb0247
+; Teacher: Yes, that's when the painting was made.
+
+# 4031fce2
+; Teacher: Now let's study some more paintings. . .
+
+# b9848de0
+; Teacher: A long time ago. . .
+
+# 83fb5eca
+; Teacher: Bla bla, Michelotter, bla bla, Edvotter, bla. . .
+
+# f67feaea
+; Ashley: So much talking. . .
+
+# ad138568
+; Ashley: I want a lunch break. . .
+
+# 8387873a
+; Teacher:  . . . And that's some of the classical artists. . . Oh, is that the time already?
+
+# 5d9ff391
+; Teacher: Time flies when you have fun~
+
+# 41abd8f9
+; Teacher: Next time we will discuss more artists and paintings. Don't forget to visit the library and get the book “50 famous paintings by Michelotter”.
+
+# 761c077a
+; Ashley: Finally done. . .
+
+# 72c24779
+; Ashley: I want lunch. . . Oh right, the book.
+
+# 91018b91
+; Ashley: I will go to the library first.
+
+# db4bc9af
+; Ashley: Hmm... Isn't that Erick next to the shelf with manga books?
+
+# 4f478ddf
+; Erick: Ah, Ashley, you are here too!
+
+# 3af6c29e
+; Erick: I noticed that they have manga books here~
+
+# 9a5d3797
+; Erick: What kinda manga do you like to read?[skipInput]
+
+# 8e0f82be
+; @choice "I like to read BL~" goto:.BL
+
+# 1fbddff4
+; @choice "Meh, I don't read manga" goto:.Meh
+
+# 6d04b721
+; @choice "I read manga sometimes" goto:.Sometimes
+
+# 2e8d49ca
+; Erick: Eh? R-really?
+
+# 20eb3868
+; Ashley: What's so surprising?
+
+# a1f3dcc0
+; Erick: Oh, well. . . uh. . . nothing.
+
+# 9d2fe223
+; Erick: Oh, that's too bad. . .
+
+# fd172a48
+; Erick: Well, that’s nice.
+
+# 742ffdeb
+; Erick: By the way I am going to borrow some books, then eat lunch. You want to j-join me? [skipInput]
+
+# 2541a4ca
+; @choice "Yes, we can eat together~" goto:.Eat
+
+# f11b976e
+; @choice "Nah, I am going to eat on my own" goto:.Own
+
+# b65ef43f
+; Erick: Great! We can eat outside. We are not allowed to eat here in the library.
+
+# b9391830
+; Erick: I see. . . Well, see you later then.
+
+# a69d5931
+; Erick: I brought bento with me today~
+
+# 59c6ca37
+; Erick: What did you bring?
+
+# abdbf030
+; Ashley: This! (　・ω・)⊃-
+
+# 49dd772c
+; Erick: That bento looks so delicious!
+
+# 3e6d2e58
+; Ashley: This is a good time to ask some questions. o( ^▽^)o[skipInput]
+
+# aa03332f
+; @choice "What made you study here?" goto:.Made
+
+# c8a8c913
+; @choice "You come from Sweden right?" goto:.Sweden
+
+# 71eea5de
+; @choice "What's your favorite season?" goto:.Season
+
+# eac2f3aa
+; Erick: My dream is to become a 漫画家, a Manga artist!
+
+# 1e0f8535
+; Erick: In my own country we have very few comic schools, so that's why I decided to study abroad.
+
+# eba71742
+; Erick: Yes I do!
+
+# a94fa28
+; Erick: It's in north Europe with roughly over 10 million inhabitants.
+
+# a5105e00
+; Erick: We have for example “"The Swedish Semla”.That's a bun made of cardamom paste, vanilla-whipped cream and more.
+
+# a12a099d
+; Erick: Oh, we also celebrate “Midsommar.” It's a holiday event during the midsummer by the way.
+
+# fcac869a
+; Erick: We have long winters in Sweden. Some people don't like that. However, I like Winter, so that's fine ☃️
+
+# 2ac64c36
+; Erick: Oh, it's time to get back to the classroom.
+
+# ed0af7d4
+; Ashley: Yeah. . . more art history. . .
+
+# 5bf7e27c
+; Ashley: Phew. Finally time to go home. . .
+
+# ed365885
+; Gaelle: Oh, Ashley! See you tomorrow!
+
+# db5fbeee
+; Ashley: If I remember correctly, her name is Gaëlle, an exchange student from France.
+
+# 470a979d
+; Ashley: Well, time to go home now.
+
+# fff06d33
+; Ashley: All the art history lessons made me sleepy. ［(－－)］zzz
+
+# d8939848
+; Ashley: I am going to start the homework we got, then I’ll go to bed early.

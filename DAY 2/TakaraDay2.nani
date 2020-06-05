@@ -1,0 +1,223 @@
+; Localization script for `TakaraDay2`
+
+# 83dc9d09
+; Ashley: Rats! I am late!
+
+# cb83b0eb
+; Ashley: Where is the auditorium. . .?
+
+# 633e6016
+; Ashley: Ah right, it’s over there. . . I must hurry!
+
+# 51a6c575
+; Takara: AAAHHHHH!
+
+# 41bca17
+; Ashley: That scream was from Takara!
+
+# 81cdebc0
+; Ashley: W-what's happening?!
+
+# 7d97030c
+; Teacher: That’s it, time to wrap up! Well done everyone!
+
+# 64820685
+; Ashley: Of course. . .
+
+# 679510a
+; Ashley: It was only a play. . . hehe. . .
+
+# 481839b0
+; Takara: Oh, Good morning. . . Ashley!
+
+# 5c6b6791
+; Takara: That is your name, right? You missed the second year performance for the theater classes.
+
+# 18d525fa
+; Teacher: Attention! This week we will do a collaboration project between the first, second, and third year theater students.
+
+# 2ae48180
+; Teacher: At the end of the week we will hold a performance at school for the students.
+
+# fe13116f
+; Teacher: It’s a great opportunity for the first year students to learn from the older students.
+
+# 5cc211d
+; Teacher: I expect you second and third year students to help and guide them.
+
+# 3bb6394
+; Teacher: We will split all the students into groups of ten people.
+
+# df2b0036
+; Teacher: Let’s begin. . .
+
+# 7ef71690
+; Teacher: So group A is Takara, Kim, Aina, Ashley, Kiyoko, Aoi, Daichi, Hachiro, Bao, and Hong.
+
+# 32fb9977
+; Teacher: And group B. . .
+
+# 1d69e135
+; Takara: Ah, So, we are in the same group, Ashley!
+
+# 85e9e903
+; FemaleStudent: Awww. . . I wanted to be in the same group as Takara. . .
+
+# 53fd8e1d
+; Takara: Don’t be down you guys. I am sure we will work together in the future.
+
+# edc8a6be
+; EnbyStudent: Yeah, next time you can join me!
+
+# f13c30cd
+; Ashley: Looks like Takara is popular. . .
+
+# 7ad49884
+; MaleStudent: Hey hey, don’t think you can’t keep him all to yourself haha.
+
+# cde9a8d2
+; Ashley: . . regardless genders.
+
+# b65b7bb3
+; Takara: Alright group A, what should our play be about?[skipInput]
+
+# d3411b91
+; @choice Comedy goto:.Comedy
+
+# 3e6531e8
+; @choice "Epic fantasy" goto:.Fantasy
+
+# 787bf0f0
+; @choice "Dark horror" goto:.Horror
+
+# 22db890a
+; Takara: Oh, are you good at telling jokes?
+
+# 2b42f67
+; Takara: Can you guess this one: What do you call someone who really loves bread?
+
+# 870c3528
+; Ashley: . . .
+
+# 4bdd5ee4
+; Takara: . . . Pansexual!
+
+# 36ef586
+; Takara: You know Pan = Bread ^^
+
+# 9071f549
+; Group"A":  . . . ( - _ - )
+
+# 3f2420ca
+; Ashley: The silence is awkward.
+
+# d561c21b
+; Takara: Hmmm. . . why not. . . Do you guys like fantasy?
+
+# 570856f5
+; Group"A": Nah. . . there’s so much fantasy these days. . . ＼| ￣ヘ￣|
+
+# 46ed41e7
+; Group"A": I haven’t even seen or read Otter of the Rings. . .
+
+# 34d8b7ca
+; Group"A": Yeah, a hoooooorrooor story~~(((φ(◎ロ◎;)φ)))
+
+# 6ec76ba9
+; Takara: Well. . . I don’t enjoy horror. . . sorry guys.
+
+# dc5581a6
+; Group"A": Oh, what about a family drama?
+
+# 771569f0
+; Group"A": Yeah, last years third grade students did such a cool show!
+
+# acb200dc
+; Takara: Well, if everyone thinks it’s a good idea, let’s do it!
+
+# bf687d39
+; Group"A": Great, let’s start planning what the story should be about.
+
+# 41abfd69
+; Group"A": It can be about a family. . . who is living a secret life. . .
+
+# 5faeb11e
+; Group"A": Or they hate each other and always get into fights with each other. . .
+
+# ce865abc
+; Ashley: Takara looks down. . . Is he alright?
+
+# 203bd520
+; Ashley: Takara, are—
+
+# f543f2e6
+; Teacher: Alright students, it’s time for a lunch break!
+
+# 629d1a8f
+; Teacher: After lunch you will all have your respective classes, depending on what year you are in.
+
+# 35dcef86
+; Teacher: Tomorrow morning, we will practice together again.
+
+# 7a6e6dff
+; EnbyStudent: Takara, are you free to eat lunch?
+
+# 6454bbca
+; Takara: Sure, let’s go~
+
+# 7e0a9b3a
+; Ashley: Takara sure is a busy second year student. . .
+
+# 7f0f69a1
+; Ashley: Many others look up to him. . .
+
+# e4611b7f
+; Ashley: Well, time to eat my lunch.
+
+# 648ea691
+; Ashley: My big bro made this for me. He is really good at cooking.
+
+# fbbc1066
+; Ashley: I wonder if Takara has any siblings. . .
+
+# aa141233
+; Teacher: Hi everyone!
+
+# e4627ce4
+; Teacher: In this lesson we will study old quotes from famous theater performances.
+
+# 7eb628f0
+; Teacher: Does anyone know the rest of this quote? “To be, or not to be, that is the. . .”[skipInput]
+
+# dcca6ee9
+; @input answer summary:"Choose your answer."
+
+# fe7a84ca
+; Teacher: That is incorrect. The right answer is: “To be, or not to be, that is the question!”
+
+# 3e8f7813
+; Teacher: That's correct, well done!
+
+# 68a1f8bb
+; Teacher: Here is another one: “The stage is not merely the meeting place of all the arts, but is also the return of art to. . .”[skipInput]
+
+# 812d580e
+; @input choose summary:"Choose your answer."
+
+# e9f60402
+; Teacher: That is incorrect. The right answer is “The stage is not merely the meeting place of all the arts, but is also the return of art to life!”
+
+# a58434b7
+; Teacher: That is correct! Good job.
+
+# 722ba0a9
+; Teacher: Let’s continue by watching an old performance by William Otterspear. . .
+
+# ff298b1f
+; Ashley: Phew. . . what a day.
+
+# 16ba61f1
+; Ashley: It’s finally time to go home. . .
+
+# ed3788e3
+; Ashley: Yawn. . . Time to go to sleep. ( ु⁎ᴗᵨᴗ⁎)ु.zZ
