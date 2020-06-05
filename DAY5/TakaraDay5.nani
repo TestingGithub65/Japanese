@@ -1,0 +1,196 @@
+; Localization script for `TakaraDay5`
+
+# 48391c7f
+; Ashley: I am going to school now~
+
+# 3f2a6e63
+; Brother: Yeah, yeah. . .
+
+# b52eb350
+; Masami: I told you, Takara is quitting this program!
+
+# c219d6f
+; Teacher: This. . . this is very sudden. Have you spoken with Takara about all of this?
+
+# 34113265
+; Masami: He wasn’t home last night. It must be because he was with shady theater students.
+
+# 1df973c6
+; Masami: Takara was such a promising and hardworking student before he started this high school.
+
+# d5049f98
+; Masami: He is quitting right now!
+
+# 23c25519
+; Masami: What are you staring at?![skipInput]
+
+# c919e6ab
+; @choice "I think Takara doesn’t belong here" goto:.Agree
+
+# c37e32e1
+; @choice "You don’t know Takara at all, do you?!" goto:.Do
+
+# 5a613d38
+; Masami: That’s right!
+
+# a46b3f72
+; Masami: Wait, who are you?!
+
+# 5a02251d
+; Masami: OF COURSE I DO! I am his mother! Who are you?!
+
+# fdc9251a
+; Ashley: I am Ashley! A first year in the theater program.
+
+# 85d3770e
+; Masami: Tss. . .
+
+# deb47fbb
+; Masami: Wait a minute. . . aren’t you the kid who visited Takara the day before yesterday?![skipInput]
+
+# bb6e65ad
+; @choice "I talked to him about changing programs" goto:.Change
+
+# 4921ed98
+; @choice "I told him to continue studying theater" goto:.Convinced
+
+# 19a910af
+; Masami: You seem like a smart kid. It’s such a shame that you are wasting your talent on theater.
+
+# 3c73b3b6
+; Masami: You did what?!
+
+# b7a807c5
+; Takara: Mother. . . please stop.
+
+# 1d10f15a
+; Masami: There you are! What have you been doing?!
+
+# 12de2be4
+; Masami: It’s time for you to finally stop going to this worthless class!
+
+# 9d70c03c
+; Ashley: Takara-
+
+# 2cdc631e
+; Masami: And what do you want?! You have nothing to do with this!
+
+# 6699904e
+; Takara: Don’t speak like that about Ashley!
+
+# 1ae27bc1
+; Masami: Who cares about that commoner!?
+
+# 413b1493
+; Takara: That’s it! I don't want anything to do with you or father anymore!
+
+# 7a3298d7
+; Takara: I am about to find my own place! I am cutting ties with you until you can accept who I am and what I do!
+
+# cc91df63
+; Masami: Y-you little. . .
+
+# 693c0f0a
+; Masami: Hmph! Whatever, throw away your life if that’s what you want then!
+
+# d2d8ee24
+; Masami: Goodbye!
+
+# 608315c6
+; Takara: Well then. . . that’s it. . .
+
+# 6a0bedab
+; Ashley: Takara, are you okay. . .?
+
+# 91f06c7
+; Takara: Not at the moment, but I will be. . .
+
+# 377e87ab
+; Takara: Thanks for standing up for me.
+
+# c7ff7990
+; Ashley: Of course~
+
+# 80990a8
+; Takara: Well then, let’s begin the preparations for the show!
+
+# fce3e79d
+; Teacher: Wow, that’s what you call a drama. . . o(*≧□≦)o
+
+# 6119c372
+; Ashley: The show went as planned. The audience liked the performance and everyone was happy.
+
+# 5f41b31f
+; Ashley: Takara was smiling as well, despite what happened earlier. I am happy that he is happy.
+
+# 5dd369ce
+; Ashley: I hope that we will be able to share many happy moments together.
+
+# 45878540
+; Many Years Later. . .
+
+# 3bd71427
+; Son: Daaaad! Aren’t we going noooow?!
+
+# 7868165d
+; Takara: Yeah, we are going. Easy boy, it’s only 9 AM you know.
+
+# 636953a0
+; Son: Fine. . .
+
+# f770721c
+; Ashley: Yawn. . .
+
+# 4034a5a3
+; Takara: Ah! Morning, dear~
+
+# e4e0705
+; Takara: I did not want to wake you up, as it seemed like you needed to sleep~
+
+# 552e6a89
+; Son: Are we going now. . . ?
+
+# 683fcdd3
+; Ashley: You two are off to buy that new visual novel game, right?
+
+# 10810086
+; Son: Yeah, it’s soooo good!
+
+# 49b0dd24
+; Son: When I grow up, I want to be a game developer!
+
+# 1d613b45
+; Son: Can I become one?!
+
+# 4b8df5e
+; Ashley: Of course you can. You can be anything you want. Right, dear?
+
+# b7edea96
+; Takara:  Yes, of course~ Oh, but you are not allowed to be a criminal, spy or—
+
+# dcb8a7c5
+; Son: Yeah yeah, I get it.
+
+# 311a77e6
+; Son: I am heading out now!
+
+# e3547969
+; Takara: AH! Wa-wait a minute.
+
+# a89ad10b
+; Ashley: Good luck you two~
+
+# cc473c30
+; Takara: Ashley, thank you. . . but I think it’s best if I change to the social science program at Dojō Highschool.
+
+# 2073dc41
+; Takara: Thank you for everything.
+
+# b9b0ffd7
+; Mrs.Masami: Hmph. . . kids these days. . .
+
+# 7fd175f
+; Ashley: N-no. . .
+
+# a583b104
+; Ashley: W-why did it have to be like this. . .?

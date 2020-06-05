@@ -1,0 +1,322 @@
+; Localization script for `HibikiDay5`
+
+# 274a7e90
+; Ashley: Argh, not again! I overslept. . . I’ve got to hurry to school! └(>ω<。)┐-=≡
+
+# b19f8837
+; Pixel: Oh, it’s you ag—
+
+# 68f26204
+; Ashley: OUT OF MY WAY! ======┌(๑ʘ∀ʘ)┘
+
+# 4ad75e4b
+; Ashley: Phew. . . now I need to find Hibiki.
+
+# 283e1e1b
+; Hibiki: Oh, hi Ashley!
+
+# 7c813b5
+; Hibiki: Something bad thing has happened. . . I will show you.
+
+# c968d3df
+; Ashley: What the—
+
+# ef6b8b52
+; Hibiki: Someone has been tearing apart our posters.[skipInput]
+
+# 6ef78f7
+; @choice "The poster didn’t look good anyway. . ." goto:.Honestly
+
+# bd87c3e3
+; @choice "That’s awful. . ." goto:.Awful
+
+# 7075e336
+; Hibiki: Don’t say that. The media class probably did their best to make those posters.
+
+# 8ba0ddb6
+; Hibiki: Yeah. . . It sure is. . .
+
+# f10d7b41
+; Hibiki: Hey! Look over there!
+
+# b5d814ee
+; Ashley: What?! Did they special posters made just for them?
+
+# 3b4fb447
+; Hibiki: Seems like it. Look, they aren't torn apart!
+
+# 65466492
+; Hibiki: I BET IT WAS THOSE BASTARDS WHO DESTROYED OUR POSTERS![skipInput]
+
+# b7ec6b87
+; @choice "Yeesh. . . chill out" goto:.Chill
+
+# 8c558738
+; @choice "We are in the library. Take it easy." goto:.Easy
+
+# ae8f987f
+; Hibiki: Yeah, yeah.
+
+# c6f95162
+; Hibiki: Right, thanks for reminding me.
+
+# 73516036
+; Ashley: You really don’t like the guy Seok, eh?
+
+# 4259a12a
+; Hibiki: I hate that dude. Well. . . even if he were a gal I still would hate him.
+
+# e5b300a8
+; Hibiki: Auhm. . . I mean well. . . I like both boys and girls. . . but. . . I. . . uh. . .
+
+# 34e27e13
+; Takara:  . . . Oh, are you bi?~♡
+
+# 30820bb3
+; Hibiki: W-who said th-
+
+# 683f7f09
+; Takara: Haha, sorry for scaring you.
+
+# acfb3768
+; Hibiki: What is with you?!
+
+# 50b3fd30
+; Takara: Ah, nice to meet you again, Ashley!
+
+# 9b72f589
+; Hibiki: Do you know this freak?
+
+# c8ccaaa5
+; Takara: Yes, we met on Monday morning. I also held a speech for the new students. You were there, right?
+
+# 5d0e62f0
+; Hibiki: Hmmm. . . I guess I have a faint memory of that. .
+
+# f477ea0b
+; Takara: You guys are in the music program, aye? Do you know the schedule for when the bands are playing?[skipInput]
+
+# ce4408b0
+; @choice "Hibiki, do you know?" goto:.Bands
+
+# 6279997e
+; @choice "The bands that are playing aren’t good." goto:.Whatever
+
+# 15a3b545
+; Hibiki: Sigh. . .You know. . . we are one of the bands playing. . .
+
+# 75142bdf
+; Hibiki: We have four bands: jazz, electro, pop and rock.
+
+# 2288c157
+; Hibiki: We play in that order and each group gets half an hour to play.
+
+# af584531
+; Takara: Thank you. I will be sure to watch. See ya~
+
+# e562f5e9
+; Hibiki: Right . . . let’s eat lunch and prepare for the concert.
+
+# 384e568f
+; 14:00 | SCHOOL YARD| CONCERT TIME
+
+# d3e16b5b
+; Ashley: Whoa! Some class have made a small concert stage on the school yard for us.
+
+# 6614b4ae
+; Speaker:  . . . and now we welcome the first band “The Melancholic Otters”, the jazz band!
+
+# 66f64fad
+; Hibiki: The first band has begun. . . We are the last ones, so we will have to wait. . .
+
+# e4ed6250
+; Hibiki:  Do. . . do you think they will enjoy our rock band?[skipInput]
+
+# df65c265
+; @choice "Well, rock isn’t really popular today" goto:.Popular
+
+# 3348b311
+; @choice "I am sure they will" goto:.Will
+
+# 4cbdddd0
+; Hibiki: Hmph. . . thank you for that. . . (╬ Ò ‸ Ó)
+
+# d513a4b1
+; Hibiki: Yes, it will be okay. . . (οдО;)
+
+# a330f16
+; Ashley: Hibiki acts confident most of the time. . . but now her face has turned pale and she is nervously muttering to herself.
+
+# c8fb7bca
+; Speaker: Thank you The Melancholic Otters . . .
+
+# 24a63eff
+; Speaker: And now we welcome the second band “Cyborgs from Another Planet”, the electro band!
+
+# d3be7575
+; Ashley: Hibiki, you are pale. Is everything okay?
+
+# f591d0ed
+; Hibiki: Yeah, ev-everything is fine!
+
+# 90ac07df
+; Ashley: She is forcing a smile but she is stuttering.
+
+# b8646d22
+; Hibiki: I-I will get something to drink! Σ(ﾟДﾟ;≡｀ﾟдﾟ)
+
+# d01c6657
+; Speaker: Thank you Cyborgs from Another Planet . . . and now we welcome the third band “ZTZ”, the pop band!
+
+# bf979c92
+; Students: Yeah, finally! Go! Kyaa, look! 💓
+
+# 2ff38b0
+; Ashley: Looks like there were many who looked forward to hearing the K-pop band play.
+
+# 52bec9ca
+; Ashley: Oh, Hibiki is back. . .
+
+# e319723b
+; Hibiki: Oh, "they" are playing. . .
+
+# 6e518009
+; RockTeam: Soon it will be our time to play . . .
+
+# 36821d96
+; Students: More! Play more! Please play one more song! You rule!
+
+# bbfe0a55
+; Seok: Thank You! We will play more!
+
+# 207bc61c
+; Students: Yay! Woohoo!
+
+# 77f8f47b
+; RockTeam: What!? We are supposed to be playing now!
+
+# 1f5490d6
+; RockTeam: If they perform another song, our band will not get time to play!
+
+# 5a648605
+; RockTeam: Hibiki! You are the group leader. What should we do?
+
+# a073df3f
+; Hibiki: What to do. . . the audience likes the K-pop band more than us. . . we should just let them play. . .
+
+# 8a8cde98
+; Ashley: NO!
+
+# 528569fc
+; {name}: We put our souls into this performance! We are not going to let them tear apart more of our work anymore!
+
+# 787e509b
+; Hibiki: Ashley. . .
+
+# 174a79bc
+; Hibiki: Huh!? Where are you going Hibiki?
+
+# 5daf86ef
+; Hibiki: To unplug the stereos.
+
+# 9b9c32a3
+; Seok: What the—
+
+# b1971530
+; Hibiki: Thank you so much ZTZ . . . and now we welcome the last band “Hardcore Rock Otters”!
+
+# a84832cb
+; Seok: What the hell are you doing?! *Whisper*
+
+# e8707a26
+; Hibiki: C’mon, just get off of the stage. We can co-exist without always fighting each other. *Whisper*
+
+# 6b506a51
+; Seok: Yeah… why fight? BECAUSE IT’S OBVIOUS THAT WE ARE BETTER THAN YOU *Whisper*
+
+# e2a477af
+; Hibiki: Well then, I have no other choice. . . （￣～￣） *Whisper*
+
+# bab5ad09
+; Seok: ARRGHHH!!!
+
+# 2c87f402
+; Ashley: Hibiki kicked  Seok’s weak point with full power. Seok crouches down in agony.
+
+# bbce61ee
+; Seok: YOU F-@KRZ B-O@KZ!
+
+# 568f6e24
+; Students:  OMG! FIGHT! FIGHT! Poor Seok! Haha, bad luck dude!
+
+# 6c5fe1f3
+; Ashley: Now the K-pop and rock group members are starting to fight each other on the stage!
+
+# 448ab112
+; Erick: This is bad. . .
+
+# a674981e
+; Takara: Haha Gyeong, did you see that kick?!
+
+# 127aad45
+; Gyeong: I sure did!
+
+# 5c81e68e
+; Gyeong: Oh, now the teachers are trying to stop the chaos on stage!
+
+# c25850c1
+; Ashley: It all ended with all the K-pop and Rock members being expelled. . .
+
+# 12d7873f
+; Ashley: . . .from school for two weeks.
+
+# 5a1209b3
+; Ashley: That summarizes the first week of high school.
+
+# f7d28991
+; Ashley: However, this wasn’t the last time we got into trouble at school.
+
+# 45d1b849
+; SEVERAL YEARS LATER. .
+
+# b0184a8
+; Hibiki: Ah,  there are only a few minutes left until it’s our time to play!
+
+# c06b1e44
+; Hibiki: It’s our first concert as a real band since we finished High School.
+
+# 723b6172
+; Hibiki: . . .
+
+# 12ca7179
+; Hibiki:  . . . I am so happy that you are with me.
+
+# 80ebe4b1
+; Hibiki: Whatever happened, you were always the one that who made us stay together.[skipInput]
+
+# fccac913
+; @choice "Of course, I love you ;)" goto:.Continue
+
+# a7d06fa2
+; Hibiki: Yeah, I love myself too. . . and you~♡
+
+# b729cd9a
+; RockTeam:  Hey, it’s show time everyone!
+
+# 6a535d87
+; Hibiki: Ah, Let’s go!
+
+# cd3eef99
+; THE FOLLOWING MONDAY. . .
+
+# 6d3caf1a
+; Teacher: The concert was a huge success, well done everyone.
+
+# a1cf5518
+; Teacher: Also, unfortunately Hibiki has changed high schools due to personal reason.
+
+# 1c9e3af8
+; Teacher: Now, today’s lesson will be about learning notes. . .
+
+# afce592d
+; Ashley: What. . . Did Hibiki really quit. . .? Why. . .
