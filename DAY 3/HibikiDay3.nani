@@ -1,0 +1,178 @@
+; Localization script for `HibikiDay3`
+
+# 75e42ea0
+; Ashley: Oh, I’ve got a message!
+
+# bc566f34
+; @choice "I hope you will get better (´･д･`)" goto:.Better
+
+# 835636ff
+; @choice "Ignore and close the mobile" goto:.Close
+
+# 852f6e3a
+; @print " I hope you will get better (´･д･`)" author:Ashley reset:false
+
+# c10aa789
+; @print "Thank You ^^" author:Hibiki reset:false
+
+# 510ee63b
+; @print "Tell me if I miss anything important." author:Hibiki reset:false
+
+# 311c038c
+; Ashley: Time to go to school! ( ovo)9
+
+# 529eac63
+; Teacher: Good morning!
+
+# 6427c16a
+; Teacher: To welcome all new students we in the music program are going to have a concert on friday.
+
+# 743586ed
+; Teacher: We are going to have 4 groups: Pop, rock, jazz and electro.
+
+# 3d3d6fa4
+; Teacher: It’s up to you to decide the group that you want to be in.
+
+# cdd2edcb
+; Ashley: Hmm. . . Which group should I choose?
+
+# 7b7c4421
+; Seok: Hi, my name is Seok! Do you want to join our K-pop group?[skipInput]
+
+# 6222fbac
+; @choice Yes! goto:.Yoho
+
+# 72900322
+; @choice "I think I will join the rock group" goto:.Nope
+
+# 4ebd198d
+; Seok: Awesome, let’s begin practicing!
+
+# f1df0463
+; Teacher: Now, let’s all begin practicing before school ends! 🎵🎵
+
+# a7f0e7e8
+; Seok: Well, you are always free to join our group~
+
+# a2cd06c4
+; Teacher: Now, let's all begin to practice before school ends! 🎵🎵
+
+# 5b02dc92
+; Ashley: We really practiced hard in the group.
+
+# 33fb3594
+; Ashley: I must practice more so I don't let everyone down.
+
+# 6a47500
+; Ashley: Time to get home.
+
+# 75e42ea0
+; Ashley: Oh, I’ve got a message!
+
+# cc49e95a
+; @print "Hi! Did I miss anything important?" author:Hibiki reset:false
+
+# 795b792a
+; @print "Yes, on Friday we have a concert." author:Ashley reset:false
+
+# e7f1c4f4
+; @print "WHAT?! ∑(ﾟﾛﾟ〃)" author:Hibiki reset:false
+
+# 492c89
+; @print "And I am in the rock group (•́⌄•́๑)૭✧" author:Ashley reset:false
+
+# 5ce2f1fc
+; @print !!! author:Hibiki reset:false
+
+# c5101839
+; @print "Oh, I see. . ." author:Hibiki reset:false
+
+# f1d62e77
+; @print "Then see you tomorrow (￣▽￣)ノ" author:Hibiki reset:false
+
+# 16a56ef
+; Ashley: Yawn. . . ( ु - o - )ु.｡oO
+
+# e1da8d1e
+; Ashley: Time to do some things that needs to be done before heading to sleep.
+
+# 4b3ef76e
+; Ashley: We really practiced hard in the K-pop group.
+
+# 78fd9d76
+; Ashley: I must practice more so that I don't let everyone down.
+
+# 7a62408d
+; Ashley: Time to go home.
+
+# b659f397
+; Ashley: Oh, I got a message!
+
+# cc49e95a
+; @print "Hi! Did I miss anything important?" author:Hibiki reset:false
+
+# 795b792a
+; @print "Yes, on Friday we have a concert." author:Ashley reset:false
+
+# e7f1c4f4
+; @print "WHAT?! ∑(ﾟﾛﾟ〃)" author:Hibiki reset:false
+
+# ea3dc128
+; @print "And I am in the K-pop group (•́⌄•́๑)૭✧" author:Ashley reset:false
+
+# 49859035
+; @print "Oh Crap. . .（；¬＿¬)" author:Hibiki reset:false
+
+# 472a4d4e
+; @print Nevermind. author:Hibiki reset:false
+
+# e3d09e08
+; @print G-night. author:Hibiki reset:false
+
+# 34838892
+; Ashley: Oh, I better ask Seok for his number tomorrow.
+
+# 17df3add
+; Ashley: Well, I should go through the notes to the songs we are going to play. . .
+
+# 6d7110b7
+; FRIDAY | CONCERT | 15:00
+
+# f55c1baf
+; Students: Wooooooooo!
+
+# a3f288ae
+; Students: They are so great! Awesome!!
+
+# 3c930fa9
+; Seok: Thank you all so much for listening to us!
+
+# 2fd4397c
+; Seok: We are the K-pop group ZTZ! You can follow us on InstaOtter~
+
+# 44b74a10
+; | TWO WEEKS LATER |
+
+# b7ab39e3
+; Seok: No, That's completely wrong!!
+
+# c7b4b2d2
+; Seok: Are you even trying?!
+
+# 870c3528
+; Ashley: . . .
+
+# 317d1ce3
+; Seok: . . . The fans expect us to be on a certain level. Have you seen how many followers we have gained?
+
+# 2b50a0c2
+; Seok: You don't want to disappoint them. . . or us, do you?
+
+# 356c5e93
+; Seok: You better shape up if you want to avoid that. . .
+
+# 781a871d
+; Seok: . . . and why ain't you wearing our club jacket?!
+
+# 1e78ad19
+; Seok: Arggh. . . let's quit for today. We will all start practicing early tomorrow!

@@ -1,0 +1,283 @@
+; Localization script for `GyeongDay3`
+
+# 57bc8ce0
+; Ashley: Yawn. . . (๑ᵕ⌓ᵕ̤)
+
+# a085e0e
+; Ashley: I am the last person to leave the house as usual. . .
+
+# 46ce724c
+; Ashley: Must not forget to lock the door. . .
+
+# 30ac8a91
+; Gyeong: Yo! Ashley!
+
+# bcd64d9c
+; Gyeong: Now that everyone in group A is here, let’s walk to the park~
+
+# 2e2a3adb
+; Gyeong: The weather is hot lately. . .
+
+# 6cdd3808
+; Group"A": Yeah. . . it really is. . .
+
+# a99eefd4
+; . . .
+
+# a99eefd4
+; . . .
+
+# e0f92191
+; Gyeong: Looks like we are the first ones here~
+
+# 1d920a88
+; Gyeong: Ashley, can you play the music we are going to use?
+
+# 15b2032b
+; Ashley: Okay!
+
+# 8795197a
+; MrsFeng: WHAT’S THAT NOISE?!
+
+# 787c1ad2
+; Group"A": Oh, Mrs Feng, you are here. . .
+
+# c3e1a004
+; Group"A": We were just. . . listening to some music. . . hehe.
+
+# e0a3b163
+; MrsFeng: HMPH! Stop that and begin to practice!
+
+# bfaa7fda
+; Group"A": Yes, we will. . .
+
+# 76e1b468
+; Group"A": We can't practice when she is here. . . What should we do?  *whisper*
+
+# 7e9328f3
+; MrsFeng: EUHM!
+
+# 637792f1
+; Group"A": Eeep!
+
+# a03bf85c
+; MrsFeng: Ashley, I would like to talk to you!
+
+# afaa80a4
+; Ashley: Can we go and sit on the benches a bit away from here?
+
+# 7570f547
+; MrsFeng: Well, there is so much noise here, so that’s fine.
+
+# 6847d9bc
+; Group"A": Well done, keep her distracted for as long as possible. *whisper*
+
+# a70e2dca
+; Ashley: S-so what was it that you wanted to talk about?
+
+# b3a18675
+; MrsFeng: Well, as you are a first year student, I would like to get an impartial view on how the classes are working.
+
+# 50bb05ac
+; MrsFeng: How is the atmosphere in the groups according to you?[skipInput]
+
+# fd66e381
+; @choice "I think people should work more" goto:.Work
+
+# 3ae8daee
+; @choice "Everybody is doing their best" goto:.Best
+
+# e559f818
+; MrsFeng: So true! Kids these days are so lazy~
+
+# 90283a77
+; MrsFeng: Oh, is that right. . . ?
+
+# 5e38829c
+; MrsFeng: How is it going with your group? Is the ballet preparation performance soon?[skipInput]
+
+# ceba6d9d
+; @choice "Actually. . ." goto:.BSENRONE
+
+# 2962b7a6
+; @choice "It’s going fine" goto:.Fine
+
+# 281d0913
+; MrsFeng: HMPH! Very well then. . . Hurry back and practice!
+
+# 5d38f2f3
+; Ashley:  Y-yes, I will!
+
+# 6580ffb3
+; Ashley: Where is everyone. . . ?
+
+# 190c2125
+; Gyeong: Oh, you are back! I was waiting for you~
+
+# 2aae5ec4
+; Gyeong: Everyone else went on an early lunch break.
+
+# d864805e
+; Gyeong: Let’s go to the café a bit away from here and have something to eat~
+
+# b456817d
+; Gyeong: What do you want to eat?[skipInput]
+
+# d0619bf6
+; @choice "Pancakes 🥞" goto:.Order
+
+# e0979ed3
+; @choice "Curry Rice 🍛" goto:.Order
+
+# bbd2b4a3
+; @choice "Noodles 🍜" goto:.Order
+
+# c7c8dacf
+; Gyeong: Okay, I will order that~
+
+# e60fe52e
+; Gyeong: Let’s sit over there.
+
+# 1fb39ac
+; Gyeong: So, Mrs. Feng wanted to talk to you. . .
+
+# b95775c1
+; Gyeong: She sure is a strict teacher, aye?[skipInput]
+
+# e6e69562
+; @choice "Yeah. . ." goto:.didntell
+
+# bdf02a29
+; @choice "Cuz the students are too noisy." goto:.Noisy
+
+# 66969885
+; Gyoeng: I am sure everyone is trying their best. . .
+
+# 4a32e985
+; Gyeong: Y-you didn't tell her about us not doing ballet, right?[skipInput]
+
+# 771ec291
+; @choice "No, but it's not right" goto:.Says
+
+# 61d93e86
+; @choice "I didn't tell her" goto:.Not
+
+# 21d6069a
+; Gyeong: Yeah, I know it's not 100% honest but. . .
+
+# f5eede35
+; Gyeong: Ah, that was kind of you~
+
+# d501fcdd
+; Gyeong: Let’s eat up our food and then head back, aye~
+
+# 37a77c26
+; Group"A": Oh, Ashley and Gyeong are back!
+
+# c8f00105
+; Group"A": Let’s play the music~
+
+# 2f7ebbe2
+; Group"A": Try to remember these steps: Left, Down-Right, Curving-Left!
+
+# fb866d70
+; . . .[skipInput]
+
+# a7e15acb
+; @choice "↑" goto:.Nope
+
+# 1d79f1ca
+; @choice "←" goto:.Two
+
+# bef1ff67
+; @choice "↘️" goto:.Nope
+
+# f23f5a63
+; @choice "↩️" goto:.Nope
+
+# 1043ad0d
+; Group"A": Wrong steps! Let's start over!
+
+# 33da622
+; Group"A": Correct step! Keep going![skipInput]
+
+# a7e15acb
+; @choice "↑" goto:.Nope
+
+# ebde0bb5
+; @choice "←" goto:.Nope
+
+# 84bdbd1c
+; @choice "↘️" goto:.Three
+
+# f23f5a63
+; @choice "↩️" goto:.Nope
+
+# 9caa0dd8
+; Group"A": Nice Done! Continue![skipInput]
+
+# a7e15acb
+; @choice "↑" goto:.Nope
+
+# ebde0bb5
+; @choice "←" goto:.Nope
+
+# bef1ff67
+; @choice "↘️" goto:.Nope
+
+# f4d50f0
+; @choice "↩️" goto:.Done
+
+# 8d027ff8
+; Group"A": Great, those are the steps for the opening.
+
+# 164b1330
+; Group"A": Now, let’s keep practicing~
+
+# 2500733c
+; Ashley: Yawn, what a day.
+
+# f76845f0
+; Ashley: My group is practicing for a non-ballet performance. . .
+
+# 9386a176
+; MrsFeng: WHAT?! That’s horrible!
+
+# e355833b
+; MrsFeng: Follow me back, now!
+
+# 7db896b8
+; MrsFeng: Group “A” get here at once!
+
+# d5975856
+; Gyeong: Yes, everyone in group “A” is here. . .
+
+# a530f484
+; MrsFeng: Ashley was sensible enough to tell me about your plan. . .
+
+# ac8c8c9
+; Group"A": What?! How could you?!
+
+# 116296dc
+; MrsFeng: Silence! As punishment you will not participate in the performance on Friday!
+
+# 9a6d597
+; MrsFeng: You will also get extra homework assignments and then exams on top of that!
+
+# 77058411
+; Group"A": NOOOO. . .
+
+# 6dd67e09
+; MrsFeng: Now get out of my sight. . .
+
+# 1436bdb5
+; Gyeong: Ashley, why did you. . .
+
+# 710ef707
+; Gyeong: Never mind. . . Let’s all go home. We won’t be in any show together. . .
+
+# 120851d5
+; Ashley: No. . . I-I never wanted things to turn out like this. . .
+
+# d84dc1fb
+; Ashley: If I could just go back and change everything. . .

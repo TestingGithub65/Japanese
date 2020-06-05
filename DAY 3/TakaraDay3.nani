@@ -1,0 +1,301 @@
+; Localization script for `TakaraDay3`
+
+# cd51ae66
+; Ashley: I am going to school now. . .
+
+# ff6d33ba
+; Brother: Yeah, see ya later.
+
+# bdb33388
+; Ashley: Eh? Takara isn’t here today. . . Is he sick?
+
+# 30160a47
+; Teacher: Good morning everyone!
+
+# a6a4df9a
+; Teacher: Get together with your group and continue working on your performance~
+
+# 92c1084a
+; Group"A": Ahhh! Where is Takara?!
+
+# 80f8155e
+; Ashley: Probably sick.
+
+# 58ca3484
+; Group"A": Yeah. . . but we have finished the script and are going to practice this morning.
+
+# 5c54912c
+; Group"A": Is there anyone who can give him the script?
+
+# b87ea70
+; Ashley: Can’t you just e-mail him?
+
+# 3f804c5
+; Group"A": The script is written on paper. . . it’s twenty-five pages thick. . .
+
+# 6f3c7d07
+; Ashley: Twenty-five pages?!
+
+# b9809c1d
+; Group"A": Is there anyone who lives close to OtterStreet 58?
+
+# 71cd1398
+; Ashley: Yeah, I live at Otterstreet 54, so that’s not far away.
+
+# fc84f55
+; Ashley: I suppose I can give it to him. I don’t have any lessons during the afternoon.
+
+# ef0dd6b2
+; Group"A": Great, thank you do much!
+
+# 1c1ecb44
+; Group"A": Then let’s begin practicing.
+
+# 8f7532d5
+; Ashley: Lunchtime~ Then over to Takara's place.
+
+# 7b09b273
+; Ashley: After this park is OtterStreet 58.
+
+# 38460669
+; Ashley: This park is so nice.
+
+# 1bb6e46a
+; Ashley: Hmm, which building is it. . .?
+
+# 8d42276c
+; Ashley: Ah, I think it’s that big house over there!
+
+# 9fc53a12
+; Ashley: Hello, anybody home?
+
+# 1a5a83a8
+; Ashley: Hmm. . . what should I do?[skipInput]
+
+# 5eaa724f
+; @choice "See if the door is open" goto:.Open
+
+# f1fcc901
+; @choice "Go home" goto:.BSEONE
+
+# 4225c694
+; Ashley: Oh, the door is open!
+
+# f3aa983f
+; Ashley: Wha-what a fancy place!
+
+# a36dfd79
+; Masami: How many times have I told you to stop studying theater?!
+
+# d6d03b35
+; Takara: I-I am going to study theater regardless of whether you and father like it or not.
+
+# 47ba22d3
+; Masami: How dare you speak like that to your parents! You should be grateful that we care about you at all!
+
+# 45b1c503
+; Masami: Your big brother has been accepted to a top university studying law. Why can’t you at least follow in his footsteps!
+
+# f628845a
+; Takara: I am not. . . the same person as my brother.
+
+# 1506b792
+; Masami: No, clearly not! You are a disgrace to our family!
+
+# e850bde9
+; Takara: Ashley! What are you doing here?!
+
+# 6b76e57c
+; Masami: Ehh, who is the intruder?[skipInput]
+
+# 4a249581
+; @choice "Well, who are you?!" goto:.Rude
+
+# 7dcd871d
+; @choice "I am sorry ma’am. . ." goto:.Rude
+
+# 860ab094
+; Masami: How rude!
+
+# dd5dee99
+; Masami: I am Mrs. Chika Masami. Mother to Takara. Know your place, commoner.
+
+# 48dbcd5
+; Takara: Ashley, let’s go.
+
+# 978d6868
+; Masami: Tss. . . youngsters these days have no respect.
+
+# 427925f4
+; Takara: I am sorry you had to see that. . .
+
+# 2bf2e22
+; Ashley: Your mother seems very strict. . .
+
+# 4f6f5eaf
+; Takara: . . . Yeah, I know.
+
+# 525b3f04
+; Ashley: Ah, right. . . here (　・ω・)⊃-
+
+# c6cc5c35
+; Takara: What is this. . . ?
+
+# 43b21128
+; Ashley: The script for our performance on Friday.
+
+# 609cfffd
+; Takara: Ah, of course. . .
+
+# 91a17ed
+; Takara: Thank you for bringing it to me. . . So that’s the reason you came.
+
+# 7fdeb741
+; Ashley: Yes.
+
+# 50f2804e
+; Takara: Let’s go to the café over there.
+
+# ad2bd89a
+; Takara: We can talk more and they have nice food~
+
+# 6c76169d
+; Ashley: Well. . . I am a bit hungry actually (ˆ ڡ ˆ)
+
+# 16bb8c1c
+; Takara: Great! Let’s go~
+
+# 638efa70
+; Takara: This is the café I was talking about!
+
+# 25d3e2
+; Takara: I am buying some bento boxes. What would you like to drink?[skipInput]
+
+# 47c5c182
+; @choice "Coffee ☕" goto:.Order
+
+# 66bb7b83
+; @choice "Tea 🍵 " goto:.Order
+
+# 952287ba
+; @choice "Juice 🍹" goto:.Order
+
+# f1c69b63
+; Takara: I will order that, and we can sit over here.
+
+# d649d7f4
+; Takara: Here you go!
+
+# e3fbae8e
+; Ashley: Hmm. . . what should I ask him?[skipInput]
+
+# d969b277
+; @choice "Do you also have siblings?" goto:.Siblings
+
+# 5a058abf
+; @choice "What made you study theater?" goto:.Study
+
+# d2979a92
+; @choice "What do you think about me?" goto:.Me
+
+# 21197ac2
+; Takara: Yes, I have a big brother who is three years older than me.
+
+# fa0cb46e
+; Takara: He is going to Sora University and lives in a dorm close to the school.
+
+# 59afa20a
+; Takara: We aren’t close friends. . .
+
+# b6b7a4a5
+; Takara: We have always gotten into fights with each other ever since we were little. . . haha. . .
+
+# 4ee9976f
+; Takara: My family visited the theater a lot when I was little. They only did it because other high-class otters did it.
+
+# a1302d35
+; Takara: However, I really enjoyed watching the theater performances. . .
+
+# f892641e
+; Takara: The story, drama, performance, being in the spotlight for all of the audience. . . it’s so fascinating~
+
+# 24c10d36
+; Takara: Yeah. . . that’s when my dream to become an actor began. . .
+
+# 3876233e
+; Takara: Well. . . I haven’t known you for a long time you know. . .haha.
+
+# 8daab74a
+; Takara: But I appreciate our time together so far. . . I hope we can stick together for as long as possible~
+
+# bb78aa0a
+; Takara: Actually, I’m not sure if I should continue studying theater. . .
+
+# 456aa432
+; Takara: Maybe it would be better if I studied something else. . .[skipInput]
+
+# 8f0bf73d
+; @choice "Yeah. . . maybe you are right" goto:.Yeah
+
+# 6fe53144
+; @choice "Don’t quit theater. You like it, right?" goto:.Like
+
+# ff0012f0
+; Takara: Sigh. . . what should I do. . .
+
+# 1c6ad099
+; Takara: Yeah. . . you are right.
+
+# e5195583
+; Takara: Ah look, the sun is already on its way down!
+
+# d7ed052e
+; Takara: Should we call it a day?
+
+# f39ec189
+; Takara: Thank you for giving me the script!
+
+# 16c09409
+; Takara: Also, thank you for spending time with me~
+
+# a823eedb
+; Takara: See you~
+
+# 70da6766
+; Ashley: Well then. . . time to head home!
+
+# b22e6625
+; Teacher: Good morning students!
+
+# 60a99c3b
+; Teacher: It’s time to continue practicing for the show on Friday.
+
+# 6b136f54
+; Teacher: Oh, right, Takara is no longer going to study with us.
+
+# 1d66f9f1
+; Students: EHHHH?! Why?!
+
+# 3720741
+; Teacher: Well, his parents called and said that he is changing to another program.
+
+# 24500cca
+; Teacher: That’s all I know.
+
+# ddf072af
+; Students: Strange. He always seemed to enjoy the theater program.
+
+# 12fd240b
+; Students: I wonder what he is going to study now. . .
+
+# 91e29c18
+; Teacher: Enough chit-chatting, time to continue work!
+
+# 4c0e7749
+; Ashley: Why. . . why did he change programs so suddenly. . .
+
+# 5cdda848
+; Ashley: He looked a bit unhappy yesterday. . ..
+
+# 14630700
+; Ashley: Why. . . why didn’t he tell anyone about it. . .?
