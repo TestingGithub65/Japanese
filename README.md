@@ -4,13 +4,12 @@
 
 EXAMPLE:
 
-#ID Number (Don't delete)
-; Source text (Don't delete)
-Translation text (Add translation)
+#ID Number (Don't delete)<br />
+; Source text (Don't delete)<br />
+Translation text (Add translation)<br />
 
 #63f03ea
-; Yuko: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut ultricies enim, id venenatis arcu. Nullam rhoncus.
-Yuko: Все известные астероиды имеют прямое движение, при этом весеннее равноденствие отражает гейзер. Уравнение времени однократно.
+; Yuko: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut ultricies enim,<br />
+Yuko: Все известные астероиды имеют прямое движение, при этом весеннее равноденствие отражает гейзер.
 
-
-@choice "Load another from start" goto:AnotherScript (Only translate text in the " ")
+* @choice "Load another from start" goto:AnotherScript (Only translate text in the " ")
