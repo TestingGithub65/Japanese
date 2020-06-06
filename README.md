@@ -2,6 +2,7 @@
 
 **HOW TO TRANSLATE THE TEXT DOCUMENTS**<br />
 
+<br />
 Ask me to let you join the project, that will give you access to edit all documents^^
 <br />
 
