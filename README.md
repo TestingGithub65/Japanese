@@ -3,7 +3,7 @@
 **HOW TO TRANSLATE THE TEXT DOCUMENTS**<br />
 <br />
 
-SOFTWARE: To open .nani files you can use [Visual Studio!](https://visualstudio.microsoft.com/)(free)<br />
+You can find and edit the code documents in the maps.
 <br />
 
 EXAMPLES:
