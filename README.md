@@ -1,6 +1,8 @@
 ![Image of OOML](https://i.imgur.com/RRSuIp0.png)
 
 **HOW TO TRANSLATE THE TEXT DOCUMENTS**<br />
+
+Ask me to let you join the project, that will give you access to edit all documents^^
 <br />
 
 You can find and edit the code documents in the maps.
