@@ -19,4 +19,6 @@ Yuko: Все известные астероиды имеют прямое дв�
 * @choice "Load another from start" goto:AnotherScript (Only translate text in the " ")<br />
 <br />
 
+Keep track on the progress by using the "issues" features!
+
 *Questions? Ask here on github!*
