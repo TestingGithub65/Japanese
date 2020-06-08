@@ -24,8 +24,8 @@ Yuko: Все известные астероиды имеют прямое дв�
 <br />
 
 >#f7cc44f9
-; @choice "Hello World!" goto:.Hello
-@choice "прямое" goto:.Hello
+; @choice "Hello World!" goto:.Hello<br />
+@choice "прямое" goto:.Hello<br />
 <br />
 
 Keep track on the progress by using the "issues" features!
