@@ -6,7 +6,7 @@
 Ask me to let you join the project, that will give you access to edit all documents, issues etc.^^
 <br />
 
-You can find and edit the text/code documents in the maps.
+You can find and edit the text documents in the maps.
 <br />
 
 EXAMPLES:
