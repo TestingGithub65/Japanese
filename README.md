@@ -20,7 +20,7 @@ Translation text (Add translation under source text)<br />
 Yuko: Все известные астероиды имеют прямое движение. при этом весеннее равноденствие отражает гейзер.<br />
 <br />
 
-* @choice "Load another from start" goto:AnotherScript (Only translate text in the " ")<br />
+@choice "Load another from start" goto:AnotherScript (Only translate text in the " ")<br />
 <br />
 
 >#f7cc44f9<br />
