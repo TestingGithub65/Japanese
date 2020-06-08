@@ -18,8 +18,14 @@ Translation text (Add translation under source text)<br />
 #63f03ea<br />
 ; Yuko: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut ultricies enim,<br />
 Yuko: Все известные астероиды имеют прямое движение. при этом весеннее равноденствие отражает гейзер.<br />
+<br />
 
 * @choice "Load another from start" goto:AnotherScript (Only translate text in the " ")<br />
+<br />
+
+#f7cc44f9
+; @choice "Hello World!" goto:.Hello
+@choice "прямое" goto:.Hello
 <br />
 
 Keep track on the progress by using the "issues" features!
