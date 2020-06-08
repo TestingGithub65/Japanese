@@ -23,7 +23,7 @@ Yuko: Все известные астероиды имеют прямое дв�
 * @choice "Load another from start" goto:AnotherScript (Only translate text in the " ")<br />
 <br />
 
->#f7cc44f9
+>#f7cc44f9<br />
 ; @choice "Hello World!" goto:.Hello<br />
 @choice "прямое" goto:.Hello<br />
 <br />
