@@ -1,5 +1,12 @@
 ![Image of OOML](https://i.imgur.com/RRSuIp0.png)
 
+
+**Welcome To The OOML Translation Group!**<br />
+
+MORE INFO COMING SOON
+
+
+
 **HOW TO TRANSLATE THE TEXT DOCUMENTS**<br />
 
 <br />
