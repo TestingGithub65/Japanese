@@ -3,8 +3,6 @@
 
 **Welcome To The OOML Translation Group!**<br />
 
-MORE INFO COMING SOON
-
 
 
 **HOW TO TRANSLATE THE TEXT DOCUMENTS**<br />
